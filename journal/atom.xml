@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jumarin22.github.io/my-website/journal</id>
+    <title>Justinus Blog</title>
+    <updated>2026-03-22T22:50:50.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jumarin22.github.io/my-website/journal"/>
+    <subtitle>Justinus Blog</subtitle>
+    <icon>https://jumarin22.github.io/my-website/img/Aurelius_edit.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://jumarin22.github.io/my-website/journal/welcome</id>
+        <link href="https://jumarin22.github.io/my-website/journal/welcome"/>
+        <updated>2026-03-22T22:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Journal entries coming soon.]]></summary>
+        <content type="html"><![CDATA[<p>Journal entries coming soon.</p>]]></content>
+        <author>
+            <name>Justinus</name>
+            <uri>https://jumarin22.github.io/my-website</uri>
+        </author>
+    </entry>
+</feed>
