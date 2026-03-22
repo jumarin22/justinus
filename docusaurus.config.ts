@@ -12,10 +12,10 @@ const config: Config = {
   },
 
   url: 'https://jumarin22.github.io',
-  baseUrl: '/my-website/',
+  baseUrl: '/justinus/',
 
   organizationName: 'jumarin22',
-  projectName: 'my-website',
+  projectName: 'justinus',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
