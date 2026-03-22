@@ -70,6 +70,11 @@ const config: Config = {
           position: 'left',
           label: 'Philosophers',
         },
+        {
+          to: '/journal',
+          position: 'left',
+          label: 'Journal',
+        },
       ],
     },
     footer: {
