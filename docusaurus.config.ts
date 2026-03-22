@@ -11,8 +11,12 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://your-site.example.com',
-  baseUrl: '/',
+  url: 'https://jumarin22.github.io',
+  baseUrl: '/my-website/',
+
+  organizationName: 'jumarin22',
+  projectName: 'my-website',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
