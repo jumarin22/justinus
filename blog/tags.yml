@@ -1,0 +1,9 @@
+stoicism:
+  label: Stoicism
+  permalink: /stoicism
+  description: Reflections on Stoic philosophy and practice.
+
+philosophy:
+  label: Philosophy
+  permalink: /philosophy
+  description: General philosophical notes and observations.

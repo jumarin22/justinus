@@ -15,7 +15,7 @@
 .claude/
 
 # Journal (personal blog entries)
-blog/
+blog/20*.md
 
 # Reference/scratch files
 *.txt
