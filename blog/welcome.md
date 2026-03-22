@@ -6,3 +6,5 @@ tags: []
 ---
 
 Journal entries coming soon.
+
+<!--truncate-->
