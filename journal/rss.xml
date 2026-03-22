@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Justinus Blog</title>
-        <link>https://jumarin22.github.io/my-website/journal</link>
+        <link>https://jumarin22.github.io/justinus/journal</link>
         <description>Justinus Blog</description>
-        <lastBuildDate>Sun, 22 Mar 2026 23:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 23:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://jumarin22.github.io/my-website/journal/welcome</link>
-            <guid>https://jumarin22.github.io/my-website/journal/welcome</guid>
-            <pubDate>Sun, 22 Mar 2026 23:05:08 GMT</pubDate>
+            <link>https://jumarin22.github.io/justinus/journal/welcome</link>
+            <guid>https://jumarin22.github.io/justinus/journal/welcome</guid>
+            <pubDate>Sun, 22 Mar 2026 23:32:03 GMT</pubDate>
             <description><![CDATA[Journal entries coming soon.]]></description>
             <content:encoded><![CDATA[<p>Journal entries coming soon.</p>]]></content:encoded>
         </item>
