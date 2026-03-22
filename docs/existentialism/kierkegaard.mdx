@@ -1,0 +1,31 @@
+---
+sidebar_position: 2
+title: Søren Kierkegaard
+---
+
+import PhilosopherPage from '@site/src/components/PhilosopherPage';
+
+export const toc = [
+  { value: 'Links', id: 'links', level: 2 },
+  { value: 'Works', id: 'works', level: 2 },
+];
+
+<PhilosopherPage
+  name="Søren Kierkegaard"
+  dates="1813–1855"
+  descriptor="Danish philosopher and theologian"
+  works={[
+    { title: "Either/Or", year: "1843", description: "Contrasts the aesthetic and ethical stages of life." },
+    { title: "Fear and Trembling", year: "1843", description: "An examination of Abraham's faith and the nature of religious commitment." },
+    { title: "Repetition", year: "1843", description: "Explores whether genuine renewal in life is possible." },
+    { title: "The Concept of Anxiety", year: "1844", description: "A philosophical analysis of anxiety as tied to freedom and possibility." },
+    { title: "Concluding Unscientific Postscript", year: "1846", description: "His major philosophical work, arguing for subjective truth over objectivity." },
+    { title: "The Sickness Unto Death", year: "1849", description: "An analysis of despair as the failure to relate properly to oneself and God." },
+  ]}
+  links={[
+    { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard" },
+    { label: "Internet Encyclopedia of Philosophy", url: "https://iep.utm.edu/kierkega/" }, // TODO: verify IEP URL
+  ]}
+>
+
+</PhilosopherPage>

@@ -1,0 +1,32 @@
+---
+sidebar_position: 3
+title: Friedrich Nietzsche
+---
+
+import PhilosopherPage from '@site/src/components/PhilosopherPage';
+
+export const toc = [
+  { value: 'Links', id: 'links', level: 2 },
+  { value: 'Works', id: 'works', level: 2 },
+];
+
+<PhilosopherPage
+  name="Friedrich Nietzsche"
+  dates="1844–1900"
+  descriptor="German philosopher"
+  works={[
+    { title: "The Birth of Tragedy", year: "1872", description: "Contrasts Apollonian order with Dionysian chaos in art and existence." },
+    { title: "Human, All Too Human", year: "1878", description: "A turn toward skepticism and aphoristic philosophy." },
+    { title: "The Gay Science", year: "1882", description: "Introduces the death of God and the eternal recurrence." },
+    { title: "Thus Spoke Zarathustra", year: "1883–1885", description: "His most famous work — the Übermensch, will to power, and eternal recurrence." },
+    { title: "Beyond Good and Evil", year: "1886", description: "A critique of past philosophers and conventional morality." },
+    { title: "On the Genealogy of Morality", year: "1887", description: "Traces the historical origins of moral concepts like good, evil, guilt, and bad conscience." },
+    { title: "Twilight of the Idols", year: "1889", description: "A late, compressed summary of his philosophy." },
+  ]}
+  links={[
+    { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Friedrich_Nietzsche" },
+    { label: "Internet Encyclopedia of Philosophy", url: "https://iep.utm.edu/nietzsche/" },
+  ]}
+>
+
+</PhilosopherPage>

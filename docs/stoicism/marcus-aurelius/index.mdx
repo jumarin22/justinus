@@ -1,0 +1,25 @@
+---
+title: Marcus Aurelius
+---
+
+import PhilosopherPage from '@site/src/components/PhilosopherPage';
+
+export const toc = [
+  { value: 'Links', id: 'links', level: 2 },
+  { value: 'Works', id: 'works', level: 2 },
+];
+
+<PhilosopherPage
+  name="Marcus Aurelius"
+  dates="121–180 AD"
+  descriptor="Roman Emperor and Stoic philosopher"
+  works={[
+    { title: "Meditations", year: "c. 161–180 AD", description: "Private journals written as a personal practice, never intended for publication.", link: "/docs/stoicism/marcus-aurelius/meditations/meditations-book-1" },
+  ]}
+  links={[
+    { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Marcus_Aurelius" },
+    { label: "Internet Encyclopedia of Philosophy", url: "https://iep.utm.edu/marcus-aurelius/" },
+  ]}
+>
+
+</PhilosopherPage>

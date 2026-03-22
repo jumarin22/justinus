@@ -1,0 +1,15 @@
+.workDetail {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.workDetail h2 {
+  margin-bottom: 1.5rem;
+}
+
+.year {
+  font-size: 0.85em;
+  font-weight: normal;
+  color: var(--ifm-color-emphasis-600);
+}

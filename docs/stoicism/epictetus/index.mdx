@@ -1,0 +1,26 @@
+---
+title: Epictetus
+---
+
+import PhilosopherPage from '@site/src/components/PhilosopherPage';
+
+export const toc = [
+  { value: 'Links', id: 'links', level: 2 },
+  { value: 'Works', id: 'works', level: 2 },
+];
+
+<PhilosopherPage
+  name="Epictetus"
+  dates="c. 50–135 AD"
+  descriptor="Greek Stoic philosopher"
+  works={[
+    { title: "Discourses", year: "c. 108 AD", description: "Lectures recorded by his student Arrian.", link: "/docs/stoicism/epictetus/discourses" },
+    { title: "Enchiridion", year: "c. 125 AD", description: "A short handbook of Stoic ethical advice, distilled from the Discourses.", link: "/docs/stoicism/epictetus/enchiridion" },
+  ]}
+  links={[
+    { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Epictetus" },
+    { label: "Internet Encyclopedia of Philosophy", url: "https://iep.utm.edu/epictetus/" },
+  ]}
+>
+
+</PhilosopherPage>

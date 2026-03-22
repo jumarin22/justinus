@@ -1,0 +1,27 @@
+---
+title: Seneca
+---
+
+import PhilosopherPage from '@site/src/components/PhilosopherPage';
+
+export const toc = [
+  { value: 'Links', id: 'links', level: 2 },
+  { value: 'Works', id: 'works', level: 2 },
+];
+
+<PhilosopherPage
+  name="Seneca"
+  dates="c. 4 BC–65 AD"
+  descriptor="Roman Stoic philosopher and statesman"
+  works={[
+    { title: "Letters from a Stoic", year: "c. 65 AD", description: "124 letters to Lucilius covering Stoic philosophy and the art of living.", link: "/docs/stoicism/seneca/letters" },
+    { title: "On the Shortness of Life", year: "c. 49 AD", description: "An essay arguing that life is long enough if used well." },
+    { title: "On the Tranquility of Mind", year: "c. 55 AD", description: "A dialogue on achieving peace of mind." },
+  ]}
+  links={[
+    { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Seneca_the_Younger" },
+    { label: "Internet Encyclopedia of Philosophy", url: "https://iep.utm.edu/seneca-l/" },
+  ]}
+>
+
+</PhilosopherPage>
