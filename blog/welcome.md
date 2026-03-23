@@ -5,6 +5,8 @@ authors: [me]
 tags: []
 ---
 
-Journal entries coming soon.
+Journals are on my local. Here is a changelog:
+
+20260322: Initial commits & publication to github pages. Only Marcus Aurelius' Meditations are fleshed out.
 
 <!--truncate-->
