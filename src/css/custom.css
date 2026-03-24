@@ -114,6 +114,18 @@
   color: var(--ifm-color-primary);
 }
 
+/* Hanging indent for TOC entries that wrap to a second line */
+.table-of-contents__link {
+  display: block;
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+/* Underline bold chapter numbers in TOC */
+.table-of-contents__link strong {
+  text-decoration: underline;
+}
+
 /* Hidden heading for TOC — invisible but in DOM so anchor jumping works */
 .markdown details h2 {
   visibility: hidden;
