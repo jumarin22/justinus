@@ -9,4 +9,6 @@ Journals are on my local. Here is a changelog:
 
 20260322: Initial commits & publication to github pages. Only Marcus Aurelius' Meditations are fleshed out.
 
+20260324: Added Enchiridion.
+
 <!--truncate-->
