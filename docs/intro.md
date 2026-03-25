@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-Welcome — these are my personal notes on philosophy.
+Welcome — these are my notes on philosophy.
 
 ## Stoicism
 
