@@ -7,8 +7,8 @@ tags: []
 
 Journals are on my local. Here is a changelog:
 
-20260322: Initial commits & publication to github pages. Only Marcus Aurelius' Meditations are fleshed out.
+2026-03-22: Initial commits & publication to github pages. Only Marcus Aurelius' Meditations are fleshed out.
 
-20260324: Added Enchiridion.
+2026-03-24: Added Enchiridion.
 
 <!--truncate-->
