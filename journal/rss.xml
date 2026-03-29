@@ -4,7 +4,7 @@
         <title>Justinus Blog</title>
         <link>https://jumarin22.github.io/justinus/journal</link>
         <description>Justinus Blog</description>
-        <lastBuildDate>Sun, 29 Mar 2026 19:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 20:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://jumarin22.github.io/justinus/journal/welcome</link>
             <guid>https://jumarin22.github.io/justinus/journal/welcome</guid>
-            <pubDate>Sun, 29 Mar 2026 19:49:29 GMT</pubDate>
+            <pubDate>Sun, 29 Mar 2026 20:02:36 GMT</pubDate>
             <description><![CDATA[Journals are on my local. Here is a changelog:]]></description>
             <content:encoded><![CDATA[<p>Journals are on my local. Here is a changelog:</p>
 <p>2026-03-22: Initial commits &amp; publication to github pages. Only Marcus Aurelius' Meditations are fleshed out.</p>
