@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 12"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Opens by surveying positions on divine providence — from full denial to Socratic intimacy — and concludes that the good man, having examined the question, submits his mind to the rational order as a citizen submits to law.
+
+The central argument: freedom is not getting whatever you happen to want. That's madness. In grammar you learn to will correctly; in music the same. Why would the most important domain — how to live — be the one place where undisciplined desire is permitted? Education is precisely the training of the will to accord with how things actually are.
+
+The chapter then becomes a sustained rebuke of discontent in all its forms. Alone? Call it peace. In a crowd? Call it a festival. Bad parents? You didn't choose them and weren't responsible for it — so stop treating it as a grievance. A maimed leg? You'd arraign the entire universe over one limb? The gods gave you responsibility only for what is actually yours — the handling of impressions. Everything else was never yours to begin with. Stop dragging it in.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

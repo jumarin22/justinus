@@ -17,6 +17,21 @@ sidebar_label: "Book 1, Ch. 3"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Short chapter, but pointed. The argument: humans are composed of two things — a body shared with animals, and reason shared with the gods. Most people identify downward, with the body and its appetites. The few who identify upward, with their divine rational nature, carry themselves differently — they expect faithfulness, honor, and clear judgment from themselves.
+
+The practical implication is about self-concept. If Caesar adopted you, Epictetus notes, your pride would be insufferable. Yet you are a son of Zeus and feel nothing? The problem isn't arrogance — it's that most people don't claim what's actually theirs.
+
+The consequences of identifying downward are blunt: some become wolves (treacherous), some lions (brutal), but most become foxes — petty, cunning, and mean. A foul or dishonest man isn't just morally failing; he's choosing the lowest possible kinship when a higher one is available to him.
+
+The chapter is essentially a rebuke of low self-conception dressed as theology. Your nature determines how you treat everything around you — so getting your nature wrong poisons everything downstream.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

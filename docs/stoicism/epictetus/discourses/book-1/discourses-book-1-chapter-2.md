@@ -17,6 +17,27 @@ sidebar_label: "Book 1, Ch. 2"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The chapter opens with a provocative claim: the rational creature can endure anything *rational*, and only the irrational is truly intolerable. What counts as rational, though, varies by person — which is exactly why education matters. It trains us to align our judgments with nature rather than mere habit or fear.
+
+The core argument is about **character as a personal standard**. When facing a difficult choice, the question isn't just "what's the cost/benefit?" but "what does this do to who I am?" Epictetus is explicit: that part is yours to weigh, not his. Different men sell themselves at different prices.
+
+The chapter is rich with examples:
+
+- **Agrippinus** refuses to even deliberate about performing in Nero's shows — because the moment you start calculating, you've already compromised yourself.
+- **Priscus Helvidius**, ordered by Vespasian to stay out of the Senate, refuses: *"You can forbid me to be a senator; but as long as I am one, I must come in."* He won't be silent, won't be spared, won't bargain. His value isn't in the outcome but in the act.
+- An **Olympic athlete** chooses death over mutilation — not as a philosopher, but simply as a man who knows what he is.
+
+The purple thread metaphor is the chapter's sharpest image: most people want to blend in, to be ordinary thread. Epictetus wants to be the purple — the one touch that gives the whole garment its distinction. Making yourself like the many destroys the very thing that makes you *you*.
+
+The closing is deliberately modest. Not everyone is Socrates. Not every horse is swift. But that's no reason to stop. Epictetus doesn't claim to be Socrates — only to aim at it. The effort itself is the point.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

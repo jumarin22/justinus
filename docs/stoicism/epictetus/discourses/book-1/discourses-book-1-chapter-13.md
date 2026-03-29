@@ -17,6 +17,17 @@ sidebar_label: "Book 1, Ch. 13"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Very short. Someone asks how to eat in a way pleasing to the gods. Epictetus turns it around: eat justly, with modesty and self-control, and you already are. Then he redirects toward the harder case — when the slave brings lukewarm water or doesn't come at all. Can you refrain from anger there? That too is pleasing to the gods.
+
+The rebuke to slave-owners is pointed: you call them yours because you bought them, but they share Zeus as their forefather just as you do. Lording over them because of legal ownership is looking at the earth, at the "laws of the dead," while ignoring the laws of the gods entirely.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

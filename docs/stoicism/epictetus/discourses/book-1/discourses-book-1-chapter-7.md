@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 7"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A defense of logic as ethical practice. The objection Epictetus is answering is: why does a philosopher need to study formal argument? His answer: because handling impressions rightly — the core Stoic task — requires being able to distinguish truth from falsehood, follow valid inferences, and resist sophistry. You wouldn't accept a coin without knowing how to test it; you shouldn't accept an argument without the same capacity.
+
+The chapter also addresses what to do when you've granted premises that lead to a false conclusion: you're bound by your concessions only as long as the premises hold. If they shift, your obligations shift with them.
+
+The punchline is from Epictetus's own teacher Rufus: when Epictetus missed a step in a syllogism and shrugged it off as no big deal, Rufus replied — that missing step *is* the Capitol. Every failure of reasoning is a failure of the one faculty that makes us human.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,21 @@ sidebar_label: "Book 1, Ch. 9"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Extends the theme of Ch. 3 with more practical and political weight. If we truly share in God's rational nature, then national identity is a kind of smallness — Socrates was right to call himself a citizen of the universe rather than of Athens. Our true homeland is the whole rational order.
+
+The political implication: kinship with Caesar gives a Roman security and freedom from fear. How much more should kinship with God do the same? Yet people grovel, flatter, and tremble before powerful men — which Epictetus reads as a failure to grasp what they actually are.
+
+He also addresses the opposite error: young men who, grasping their divine kinship, want to abandon the body entirely and "depart to the gods." The answer is: wait for God's signal. You're stationed here for now — serve the post. The door is always open if things become truly unbearable, but don't leave without reason.
+
+The chapter closes with a telling anecdote: a man who lost his fortune asks Epictetus to write on his behalf in a humble, pitying tone. The man objects — he wanted help, not pity. The point: a man who still has his rational will intact has everything. Writing for him as though he's reduced to his material losses is treating a living man as a corpse.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

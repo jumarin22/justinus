@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 6"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The argument for providence is built from design: eyes and light and visible things fit together too precisely to be accidental. The sword fits the scabbard; the faculties fit the world they're meant to engage. This isn't random — it points to a craftsman.
+
+But the deeper argument is about what humans are *for*. Animals use things; humans use *and understand*. God brought humanity into the world specifically to comprehend and interpret His works. To live only at the animal level — eating, sleeping, breeding — is to fall short of our nature and miss our end entirely.
+
+The Heracles passage is the chapter's strongest moment: without the lion, the hydra, the boar, Heracles is nothing. Hardship isn't an obstacle to a noble life — it's the *material* of one. You've been given greatness of spirit, courage, endurance. Complaining about rheum when you have hands to wipe it away is the emblem of a person who refuses to use what they've been given.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

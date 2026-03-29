@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 28"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The argument from Ch. 18 returned and deepened. Nobody assents to what seems false to them — the mind by nature agrees with what appears true. So when someone acts wrongly, they are acting on a false but *convincing* impression. Medea knows she's doing something terrible — but she judges the gratification to outweigh saving her children. Show her clearly that she's wrong, and she won't do it. Her crime is delusion, not malice.
+
+The Iliad is the strongest example: every tragedy of the war — abductions, deaths, burning cities — traces back to impressions. Paris's impression about Helen. Agamemnon's impression about honor. Strip out the bodies, and what's left? Storks' nests destroyed. Where is the greatness? It's nowhere in the bodies or the buildings. Man's greatness — and therefore man's real failure — lies solely in what he does with his judgments. Alexander failed not when Troy fell but when he abandoned honor. Achilles failed not when Patroclus died but when he raged over a girl and forgot why he was there.
+
+All tragedy originates the same way. We go headlong on our impressions without any standard or scale. We are already doing what we call madness.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

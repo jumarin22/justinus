@@ -1,5 +1,9 @@
 {
   "label": "Meditations",
   "position": 1,
-  "collapsed": true
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "stoicism/marcus-aurelius/meditations/index"
+  }
 }

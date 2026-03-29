@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 20"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A brief epistemological argument. The shoemaker's art works on hides and is therefore different in kind from hides — it can't take cognizance of itself. Grammar works on written speech but isn't itself written speech — same result. Reason, however, is itself built from impressions of the same kind it evaluates: so reason alone can examine itself.
+
+This is why testing impressions is the philosopher's primary task — and why we're so bad at it. We invented assaying techniques for coins because getting money wrong matters to us. We use sight, touch, smell, hearing, even break the coin and listen to it ring. Yet for the governing principle itself — the thing that matters most — we accept whatever impression arrives without examination.
+
+The closing swipe at Epicurus is pointed: you say the good lies in the flesh, but what in *you* is doing all this examining and writing and arguing? That faculty — whatever it is — clearly isn't flesh. The argument for locating the good in the body refutes itself the moment you ask who's making it.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

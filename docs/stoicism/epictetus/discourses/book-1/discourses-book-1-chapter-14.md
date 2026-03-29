@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 14"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The argument moves from cosmic order to individual surveillance. Plants flower, fruit, drop leaves, and rest at what seems like God's command. The moon, sun, and seasons transform the earth with perfect regularity. If our bodies are so interwoven with the universe, how much more so our minds — which are not merely influenced by God but are part of His very being?
+
+God perceives everything not as an external observer but as the source from which rational creatures are drawn. He has also assigned each person a personal *genius* — a guardian that neither sleeps nor is deceived. You are never alone; close your door, make darkness, and God and your genius are still present.
+
+The oath Epictetus proposes is starker than a soldier's oath to Caesar: never to disobey, never to accuse, never to find fault with what is given, never to let the will rebel against necessity. The soldier swears to put Caesar above all men. We are to respect ourselves first — meaning our rational nature — above all things.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 4"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The chapter attacks a common confusion: mistaking intellectual achievement for philosophical progress. Reading Chrysippus fluently, mastering treatises, debating with skill — none of this is progress. Progress is measured in one place only: the will. Can you get what you genuinely will to get? Do you avoid falling into what you will to avoid? Are your impulses ordered and your assents sound? That's the test.
+
+The athlete analogy is sharp: if you ask an athlete to show his progress and he points to his training weights rather than his performance, he's missed the point entirely. The weights are means; the work is what matters. Similarly, books are means — the work is a life no longer governed by lamentation, complaint, and fear of fortune.
+
+The closing is almost reverent: we build temples to Triptolemus for teaching us to grow wheat, but raise no altars to those who taught us to live rightly. The gift of philosophy — the truth that leads not just to living but to *right* living — goes largely unacknowledged and unpracticed.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

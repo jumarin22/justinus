@@ -17,6 +17,17 @@ sidebar_label: "Book 1, Ch. 17"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A defense of logic's indispensability, built on a simple point: reason is the instrument by which everything else is judged. Before you can measure corn, you need to know what a bushel is. Before you can evaluate any claim about the good, you need a reliable instrument of judgment. Logic is that instrument — and since it's made of reason, reason can and must examine itself.
+
+The chapter closes with a striking image: the philosopher as priest reading the entrails of a sacrifice. The message found there is always the same — your will is free and unhindered by nature. No threat of death compels you; only your own judgment that compliance is preferable to dying does that. The priest doesn't deserve admiration; the truth he interprets does.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

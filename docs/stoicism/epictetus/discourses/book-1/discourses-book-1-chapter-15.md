@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 15"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+One of the clearest statements of philosophy's scope and limits. A man wants help reconciling with his angry brother. Epictetus's answer: that's outside philosophy's subject matter. Philosophy works on your own life — your own governing principle. Your brother's governing principle is his own affair.
+
+What philosophy does promise: to keep your governing principle in accord with nature, whatever the circumstances. That's the whole contract.
+
+The fig tree metaphor closes it cleanly: you can't demand the fruit before the flower, the flower before the roots. Human change takes time. If you want to be in accord with nature even while your brother remains unreconciled — that's the right question. But don't expect it resolved in a sitting.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,21 @@ sidebar_label: "Book 1, Ch. 29"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The longest chapter in Book 1 and one of the most comprehensive. Good and evil lie in the will; everything external is *material* the will works with. The tyrant threatens your leg, your neck, your flesh — none of which is you. He cannot touch your judgments.
+
+The chapter addresses the objection that philosophy seems to lead nowhere — the philosopher still gets arrested, still gets hemlock. Epictetus's answer: Socrates' body was taken, yes. But what of it? Which part of Socrates mattered? Who was actually conquered? Ten stronger men can bind one weaker body. They cannot conquer one right judgment. The law of God is that the better always wins in the domain where it is better. In bodies, the many win. In judgment, no one can win but yourself.
+
+The chapter's most arresting image is the witness called by God. You've been sent into the world to testify: is anything outside the will good or evil? That's your post. If you appear before a crisis and weep about hardship, you've dishonored the calling. The judge who declares you godless doesn't know what godliness is — no more than a non-musician declaring a note the highest. Pay him no mind.
+
+The closing is about when to speak and when to stay silent. With intimate friends who can hear it, speak freely. With the uninstructed, treat them as children — as Socrates treated the weeping jailer with kindness, not a lecture.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 title: "Meditations — Book 5"
 sidebar_label: "Book 5"
 ---
@@ -11,6 +11,7 @@ sidebar_label: "Book 5"
 ## Book 5
 
 </div>
+*Translated by George Long*
 
 <details open>
 <summary>Sonnet 4.6 Summary</summary>

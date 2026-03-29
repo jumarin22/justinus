@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 27"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A brief taxonomy: impressions are either true and seem true, false and seem false, true but seem false, or false but seem true. The philosopher must be equipped to handle all four cases — against Academic skepticism, against flattering appearances, against habit.
+
+The remedy for bad habit is contrary habit. When you hear people lamenting death as a catastrophe — "he died young, far from home" — you need the counter-argument already loaded and ready. Not abstract refutation but trained response: a different voice running alongside the habitual one until it displaces it.
+
+The chapter closes practically: philosophical engagement with skepticism is a luxury for those who are already settled. The man whose heart is shaking needs something else first. Sort out your foundation before taking on Pyrrho.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

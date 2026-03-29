@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 30"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The final chapter is the shortest and functions as a coda to the entire book. You are about to enter the palace of some powerful man. Remember: another watches from above, and it is *him* you must please.
+
+The inner dialogue is a checklist: exile — indifferent. Prison — indifferent. Death — indifferent. The will — good. The end — to follow God. Have these answers ready; they don't change because the room is grander.
+
+And the payoff: when you walk in and actually see the vestibule, the guards, the chamberlains — you'll wonder what all the fear was about. The preparation turns out to have been for nothing, because there was nothing there to fear in the first place. All of Book 1 has been building to this: the man who has learned to distinguish what is his from what isn't walks into any room, before any power, without trembling.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

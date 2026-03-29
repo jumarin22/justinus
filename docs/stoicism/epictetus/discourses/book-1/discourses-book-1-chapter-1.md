@@ -17,6 +17,25 @@ sidebar_label: "Book 1, Ch. 1"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The chapter opens with a key observation: none of our faculties can evaluate itself. Grammar tells you *how* to write, not *whether* to write. Music tells you about melody, not *when* to play. Only reason can reflect on itself and everything else — it alone judges, distinguishes, and directs.
+
+From this, Epictetus draws his central thesis: the gods gave us exactly one thing fully under our control — the power to deal rightly with our impressions (our *prohairesis*, rational will). Everything else — body, property, reputation, other people — is not truly ours. Not because the gods were withholding, but because they couldn't make those things reliably ours while we remain in earthly bodies subject to external forces.
+
+The rest of the chapter is largely illustrative. Real-world examples show what this looks like under pressure:
+
+- **Lateranus**, condemned by Nero, calmly stretches out his neck for execution — twice, when the first blow was too weak.
+- **Agrippinus**, on trial in the Senate, goes to exercise and then to dinner, receiving news of his exile with complete equanimity.
+- Epictetus himself: "My leg you will chain — yes, but my will — no, not even Zeus can conquer that."
+
+The conclusion is practical: philosophy isn't abstract theorizing — it's daily exercise. Write these things down, rehearse them, so that when crisis comes, the response is trained, not improvised. Die groaning, or die with a smile? The circumstance may be forced on you; the manner is not.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

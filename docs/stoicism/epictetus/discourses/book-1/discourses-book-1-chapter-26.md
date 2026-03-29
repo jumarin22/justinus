@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 26"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A brief defense of why philosophy begins with theory before practice. It's not backwards — theory is *easier*, because in speculation nothing drags you off course. In life, everything does. You train the instrument before you use it on hard material.
+
+The chapter contains a model defense for students whose parents are angry they're studying philosophy: "If I can be taught what's right, teach me; if not, let those who claim to know try. What do you think — that I go wrong because I want to?" Error comes from ignorance, not malice. Anger won't teach the art of living any more than anger teaches music.
+
+The closing anecdote is damning: a man wept to Epaphroditus that he was ruined — he had only a million and a half left. Epaphroditus was astonished at his endurance. This is what passes for distress among those who've placed their good in money. And this is the environment in which philosophy has to take hold.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

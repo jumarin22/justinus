@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 24"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Difficulties are the training ground, not an interruption of it. God is the trainer, you are the athlete, and the crisis is the contest. The right scout — Diogenes — comes back from reconnaissance reporting that death is not evil, that glory is noise, that poverty and hardship are manageable. The wrong scout comes back panicking and warning everyone to flee.
+
+The chapter's other key image: when you disembark a ship, you don't take the helm. You take what's yours — the oil-flask, the wallet. Apply this everywhere. Nothing the emperor can strip away was ever truly yours. Kings and emperors are the proper subjects of tragedy — their crowns come first, then Sophocles. The poor man doesn't even get a solo part; he's in the chorus, and that's fine.
+
+The door is always open. Don't stay and moan. When the game stops being worth playing, do what children do: say so, and leave.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

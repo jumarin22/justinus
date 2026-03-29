@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 18"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+If all action originates in judgment — if people do what they do because it seems right or expedient to them — then wrongdoers are not malicious so much as mistaken. The thief steals because he has wrong opinions about what is good. Showing him his error is more appropriate than punishing him for it; you wouldn't execute a blind man for failing to see.
+
+The personal anecdote is characteristic: someone stole Epictetus's lamp. His response was to reason himself to equanimity and resolve to buy a clay one instead. The logic: if you don't prize what you have, no one can take anything from you that matters. Anger at thieves is really anger at yourself for valuing the wrong things.
+
+The chapter closes with the image of the "invincible athlete" — not one who overpowers others physically but one whom nothing outside the will can dismay. Silver, beauty, reputation, death — each is a round in the contest. The truly unconquerable man holds his ground through all of them, even exhausted, even in the dark.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

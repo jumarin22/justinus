@@ -17,6 +17,17 @@ sidebar_label: "Book 1, Ch. 8"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A caution against developing rhetorical and logical skill without the character to match. The faculty of plausible reasoning is powerful — and precisely because it's powerful, it inflates those who wield it without sufficient grounding. The clever debater who hasn't worked on his character becomes harder to reach, not easier: he mistakes his skill for wisdom and can no longer be corrected.
+
+The Plato/Hippocrates point is clean: Plato was also handsome and eloquent, but those qualities didn't make him a philosopher. Don't confuse the accidents with the essence. The true good of man lies in a certain disposition of the will — everything else is incidental.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

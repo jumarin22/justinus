@@ -17,6 +17,17 @@ sidebar_label: "Book 1, Ch. 22"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+All men share the same basic conceptions — that the good is desirable, that the just is noble. Conflict doesn't arise at that level. It arises in *application*: what counts as holy? what counts as brave? Jews and Syrians and Romans agree that holiness matters; they disagree about pork. Agamemnon and Achilles both agree that the noble ought to be done; they disagree about whether returning Chryseis is noble.
+
+Education is learning to apply these common conceptions correctly to particular cases — and, crucially, to sort what is in our power from what isn't. The chapter closes with a frank admission: if you locate the good in things outside the will, every logical consequence is catastrophic — you must steal to get what's good, you must resent Zeus when things go badly, you end up building altars to him as you would to Fever. The only escape is to locate the good correctly. The philosopher who does this looks mad to the world. Fine — treat it like being in love: ask for pardon and admit you're not your own master.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

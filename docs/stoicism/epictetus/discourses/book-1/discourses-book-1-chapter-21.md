@@ -17,6 +17,15 @@ sidebar_label: "Book 1, Ch. 21"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+One of the shortest chapters in the book, and one of the sharpest. A man claims to want nothing but accord with nature — then walks around stiffly, craving admiration. Epictetus's deflation is immediate: the very people whose admiration you want are the ones you habitually call mad. So you want to be admired by madmen. The contradiction ends the discussion.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

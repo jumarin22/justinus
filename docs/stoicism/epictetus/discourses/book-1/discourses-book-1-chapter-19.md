@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 19"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The tyrant believes his power consists in what he can do to others. Epictetus dismantles this claim methodically: can you give me what I genuinely will? Can you help me avoid what I most want to avoid? No — those things are inside the will, which your chains can't reach. Your power extends to my body, which I don't count as mine anyway.
+
+The social observation is sharp: people fawn over whoever has Caesar's favor — a shoemaker sold as useless becomes wise the moment he's promoted to Caesar's household. This is the direct consequence of placing your good in externals. The man who does that must flatter upward forever, because anyone above him in the hierarchy controls what he values.
+
+The chapter ends with a wry dismissal of the priesthood of Augustus: you'll spend a great deal for your name to appear in contracts that no one outside Nicopolis will ever read. If you want a crown, get roses — you'll look better in those.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

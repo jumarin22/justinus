@@ -17,6 +17,15 @@ sidebar_label: "Book 1, Ch. 23"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Brief and pointed. Epicurus correctly grasps that we shouldn't admire or pursue things disconnected from the true good. But having placed the good in the body rather than the rational will, he can't account for natural social bonds — especially toward children. He advises against raising them, because they bring trouble. But every animal protects its young. Epictetus's closing is dry: if your parents had taken your advice, they wouldn't have kept you either.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

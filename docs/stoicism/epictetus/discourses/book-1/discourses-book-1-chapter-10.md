@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 10"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Brief and wry. An older man passes through on his way back from exile, swearing he's done with Roman ambition and wants only to live quietly. Epictetus tells him flatly: the moment you smell Rome again, you'll forget all of this. The man protests. Sure enough — a dispatch from the Emperor arrives before he even reaches the city, and he's back at the heap.
+
+The contrast Epictetus draws: Roman officials spend their days voting on grain allotments and property disputes. Philosophers inquire into how the universe is governed and what the rational creature is. These aren't equivalent concerns, and neglecting the second isn't equivalent to neglecting the first.
+
+The chapter ends with a mild self-rebuke and a challenge to the young: if they showed genuine eagerness for philosophy, it would rekindle the elders' own seriousness. The fault for collective indolence isn't age — it's a failure of appetite.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,17 @@ sidebar_label: "Book 1, Ch. 5"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Short and sharp. The Academic skeptics, who deny that anything can be known with certainty, present a special problem: you can't argue someone out of a position they've adopted by deliberately hardening themselves against argument. If a man claims he can't tell whether he's awake or dreaming, there's no logical lever to move him — he's already refused the ground on which argument stands.
+
+Epictetus's real target isn't just the philosophical position but the moral deadening it represents. We rightly fear physical paralysis, yet when someone's capacity for shame and rational assent is completely shut down, we sometimes call it "strength." Epictetus calls it what it is: worse than death. The man who can't perceive the battle is badly off; the man who sees it clearly and still won't move is in a more wretched state still.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 16"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A companion to Ch. 6, this time arguing from smaller, more intimate details. Animals need no shoes or clothing because they were made for service, not self-direction — nature equipped them ready-made. The very fact that we don't have to clothe our sheep is a gift we never acknowledge.
+
+The argument narrows further: even chin-hair is providential, distinguishing male from female at a distance. Nature's attention extends to what looks most incidental. From this Epictetus works outward to full-throated gratitude: we should be singing hymns while digging, plowing, eating. The great gift — reason itself, the capacity to comprehend all this — goes most unacknowledged of all.
+
+The closing is one of the Discourses' more personal moments: "I am a lame old man; what else can I do but praise God?" Not performed piety — a statement of what remains when most other capacities are gone. Reason and gratitude are the last things left, and the most important.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

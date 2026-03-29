@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 25"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Continues directly from Ch. 24. If good and evil truly lie only in the will, what is there left to fear? No one has authority over what we care about; we have no concern over what others control. Zeus has already issued the commands: guard what is yours, don't grasp what isn't. What more do you need from Epictetus?
+
+The chapter introduces the game metaphor more fully. Life is like a game of kings at the Saturnalia — you play your assigned role, follow the rules, act out the parts. When someone tells you to believe you're in evil case, you grant the hypothesis *for the game* but don't have to believe it in your will. When the smoke gets too thick, you leave — but not before.
+
+The slanderer passage is characteristic: stand by a stone and slander it. What happens? Nothing. If a man listens like a stone, the slander has no purchase. Socrates always wore the same expression — not performing serenity, but genuinely having nothing for outrage to grip.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

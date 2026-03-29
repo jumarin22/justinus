@@ -17,6 +17,19 @@ sidebar_label: "Book 1, Ch. 11"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A dialogue with an official who fled his sick daughter out of distress, then justified it as "natural." Epictetus's method here is characteristically Socratic: he doesn't attack the man but walks him through the logic of his own position until it collapses.
+
+The argument: if fleeing was the right expression of affection, then the mother, nurse, and attendant should all have fled too — leaving the child alone and helpless precisely because everyone loved her. The absurdity is self-evident. What the man called affection was actually something else entirely: a kind of mental disturbance, the same impulse that makes a man cover his eyes when his horse is running and faint when it wins.
+
+The deeper point is that our actions are always driven by our judgments — by how we are "minded." Achilles didn't mourn because Patroclus died; plenty of men lose companions without reacting that way. He mourned because he was so minded. This is liberating and demanding at once: if our judgments cause our distress, then our judgments are where the work must be done. No blaming wife, children, neighbors. The chapter ends with a quiet warning: investigating your own judgments is not the work of an hour or a day.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text
