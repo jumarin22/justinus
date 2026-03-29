@@ -11,4 +11,6 @@ Journals are on my local. Here is a changelog:
 
 2026-03-24: Added Enchiridion.
 
+2026-03-29: Added Epictetus' Discourses.
+
 <!--truncate-->
