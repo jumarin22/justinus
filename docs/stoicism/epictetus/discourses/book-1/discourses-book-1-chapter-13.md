@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13
+sidebar_position: 14
 title: "Discourses — Book 1, Chapter 13"
 sidebar_label: "Book 1, Ch. 13"
 ---
