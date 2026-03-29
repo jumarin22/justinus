@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13
+sidebar_position: 14
 title: "Discourses — Book 2, Chapter 13"
 sidebar_label: "Book 2, Ch. 13"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 13"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Anxiety is a diagnostic. When you see someone anxious, you know immediately that they want something outside their control. The musician playing alone feels no anxiety — he knows what he's doing. On stage, wanting applause as well as good performance, he trembles; the second want is outside his mastery.
+
+The anxiety principle is fully general: wherever you have knowledge and have confined your desires to what you can control, you have confidence. Wherever you haven't, you're exposed. Zeno going to meet Antigonus felt nothing — Antigonus controlled nothing Zeno valued. Antigonus going to meet Zeno was anxious — he wanted to please Zeno, and that lay beyond his control.
+
+The chapter ends harshly: if you're genuinely afraid of the man with power over your body, at least be honest about it. Stop calling yourself a philosopher. You have given them the hold they have over you by valuing what they can take. Socrates and Diogenes spoke as they did because they had actually trained themselves to that; you haven't.
+
+</details>
 
 <details open>
 <summary>Text</summary>

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 title: "Discourses — Book 2, Chapter 6"
 sidebar_label: "Book 2, Ch. 6"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 6"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A clarification against two misreadings of "indifferent." First misreading: if externals are indifferent, treat them carelessly. Wrong — how you handle them is not indifferent, even if they themselves are. Second misreading: if externals matter at all, be dominated by them. Also wrong.
+
+The wheat/harvest analogy is striking: praying not to die is like corn praying not to be reaped. It's a curse, not a blessing — to be reaped is precisely what corn is for. We are creatures destined for reaping and angry about it only because we haven't studied what we are.
+
+The chapter ends with the only real distinction that matters: the tribunal is high, the prison is low, but your will can be identical in both. Socrates in prison sang songs of triumph — not despite his conditions but because his will remained his own.
+
+</details>
 
 <details open>
 <summary>Text</summary>

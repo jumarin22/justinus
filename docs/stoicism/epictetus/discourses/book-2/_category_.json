@@ -1,5 +1,9 @@
 {
   "label": "Book 2",
   "position": 2,
-  "collapsed": true
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "stoicism/epictetus/discourses/book-2/index"
+  }
 }

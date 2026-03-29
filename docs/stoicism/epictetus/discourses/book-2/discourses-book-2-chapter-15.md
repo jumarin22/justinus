@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 16
 title: "Discourses — Book 2, Chapter 15"
 sidebar_label: "Book 2, Ch. 15"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 15"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A corrective against misreading Stoic steadfastness. Firmness is only a virtue if what you're firm about is sound. A man who has decided to starve himself and refuses to reconsider isn't displaying philosophical constancy — he's displaying rigidity that Epictetus has to work hard to dislodge.
+
+The distinction: firmness of health versus firmness of madness. Madmen are the most stubborn of all; that doesn't make their stubbornness admirable. A weak mind that happens to be energetic in its weakness is the hardest case — the flux runs now here, now there, but when it has force behind it, it becomes unreachable. The chapter is partly a reminder that "I have decided" is not an argument, and partly a warning that misapplied philosophical vocabulary can armor genuine pathology.
+
+</details>
 
 <details open>
 <summary>Text</summary>

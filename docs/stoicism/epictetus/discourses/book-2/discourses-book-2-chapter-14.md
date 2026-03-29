@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 15
 title: "Discourses — Book 2, Chapter 14"
 sidebar_label: "Book 2, Ch. 14"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 14"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A Roman arrives with his son. Epictetus begins and then stops, observing that the process of learning any art is tiresome to the unskilled — it's only the finished product that reveals the value. The finished product of philosophy is a person whose will is in harmony with events, who doesn't fail to get what they truly will or fall into what they truly avoid, who lives without pain, fear, or distraction, and who fulfills every human role — son, father, citizen, friend — naturally and well.
+
+To achieve this requires knowing God's nature and making yourself like it: faithful, free, beneficent, high-minded. But before that, you must understand your terms — actually understand them, not just use them as the illiterate use written characters they can't read. The Roman bristles at being told he might not understand his own terms, which is exactly the point Epictetus is making.
+
+The chapter closes with the fair/cattle image: most people at the great assembly of the world are there to buy and sell fodder. The few who come to understand the assembly itself — who governs it, why it exists — are laughed at by the rest. The cattle, if they could perceive, would laugh too.
+
+</details>
 
 <details open>
 <summary>Text</summary>

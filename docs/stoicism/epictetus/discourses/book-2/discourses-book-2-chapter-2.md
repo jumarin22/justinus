@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: "Discourses — Book 2, Chapter 2"
 sidebar_label: "Book 2, Ch. 2"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 2"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Addressed to someone preparing for court. If your only goal is to keep your will in its natural condition — honest, trustworthy, uncompelled — you already have everything you need. No preparation is required beyond what a well-lived life has already supplied. Socrates said his whole life had been preparation for his trial; what he meant was that he had never done an unjust act.
+
+If you want to protect your body, reputation, and property as well, then prepare accordingly — clasp knees, weep, flatter. But recognize that the moment you do, you've surrendered the one thing that was actually yours. Epictetus's advice isn't to be provocative like Heraclitus; it's simply to practice until circumstances dictate themselves and you respond from principle rather than from fear. The person who hasn't trained can't be given useful specific advice — any scenario the court presents will undo them.
+
+</details>
 
 <details open>
 <summary>Text</summary>

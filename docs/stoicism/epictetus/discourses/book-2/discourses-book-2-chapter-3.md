@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: "Discourses — Book 2, Chapter 3"
 sidebar_label: "Book 2, Ch. 3"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 3"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Very short. Diogenes's point: a letter of introduction to a philosopher is useless. If the philosopher has the judgment to assess a person, no letter is needed; if he doesn't, ten thousand letters won't help. A drachma doesn't need to be introduced to an assayer — it either passes or it doesn't.
+
+Epictetus turns this into a self-critique: he can judge syllogisms because he's trained in them. But in life he sometimes calls things good, sometimes evil, inconsistently — because he hasn't achieved the same mastery there. The chapter is a rare moment of genuine self-examination rather than instruction.
+
+</details>
 
 <details open>
 <summary>Text</summary>

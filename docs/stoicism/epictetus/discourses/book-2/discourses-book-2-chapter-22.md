@@ -1,5 +1,5 @@
 ---
-sidebar_position: 22
+sidebar_position: 23
 title: "Discourses — Book 2, Chapter 22"
 sidebar_label: "Book 2, Ch. 22"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 22"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The most sustained treatment of friendship in the Discourses. The argument: you can only truly love what you correctly understand as good. Since most people misidentify the good — placing it in wealth, pleasure, reputation, other people — their "love" is inherently unstable. Throw a piece of meat between dogs who were playing contentedly and you see what their friendship was worth. The same with fathers and sons over an inheritance, brothers over a throne, husband and wife over a necklace.
+
+Every creature is attached above all to its own interest. When "I" and "mine" are located in the flesh or in external possessions, everything — friends, parents, gods — will be sacrificed the moment it conflicts with that interest. Alexander ordered the shrines of Asclepius burned when his beloved died. Eteocles and Polynices, raised together, prayed for each other's blood over a kingship.
+
+The only basis for genuine friendship is shared location of the good in the will. If two people both understand that the good lies in right judgment and faithful character, then their interests cannot conflict — because no external thing can be thrown between them that would cause one to harm the other. Shared parentage, years together, oaths — none of these constitute friendship. The single diagnostic question is: where do they put their interest?
+
+</details>
 
 <details open>
 <summary>Text</summary>

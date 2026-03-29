@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 title: "Discourses — Book 2, Chapter 4"
 sidebar_label: "Book 2, Ch. 4"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 4"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+An adulterer, introduced as a scholar, arrives during a discussion of mutual trust as humanity's defining characteristic. Epictetus doesn't moralize — he reasons. Adultery doesn't just wrong an individual; it destroys the fabric of trust that makes friendship, neighborhoods, and cities possible. The man has made himself useless — like a cracked pot that can't hold anything. He can't be trusted as friend, neighbor, or citizen.
+
+The "women are common property" argument gets short work: the feast analogy. Yes, the food is shared — but it's portioned out. You take your portion. Reaching across to snatch someone else's is exactly what you did. Knowing Archedemus is irrelevant; you've chosen to be a wolf or an ape.
+
+</details>
 
 <details open>
 <summary>Text</summary>

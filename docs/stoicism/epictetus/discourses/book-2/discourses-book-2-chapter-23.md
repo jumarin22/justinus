@@ -1,5 +1,5 @@
 ---
-sidebar_position: 23
+sidebar_position: 24
 title: "Discourses — Book 2, Chapter 23"
 sidebar_label: "Book 2, Ch. 23"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 23"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A careful argument against two opposite errors: dismissing eloquence as worthless, and treating it as the highest thing. It's neither. Expression is a genuine gift from God — like vision or hearing — and to deny its value is ungrateful and cowardly. But the will is the faculty that governs all others, including speech. It decides when to speak, what to say, and whether speaking at all is appropriate. Expression serves the will; the will does not serve expression.
+
+The inn metaphor is the chapter's best image: rhetoric, syllogisms, stylistic elegance — these are fine inns on the road to the actual destination. The problem is when travelers stop at the inn and forget where they were going. Many students get caught by style, others by logical puzzles, others by the pleasure of the school itself, and there they molder like Siren-victims. The purpose was to become capable of handling impressions correctly — free, unhindered, at peace with the governance of God. That purpose is what counts. Everything else is infrastructure.
+
+</details>
 
 <details open>
 <summary>Text</summary>

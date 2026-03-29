@@ -1,5 +1,5 @@
 ---
-sidebar_position: 21
+sidebar_position: 22
 title: "Discourses — Book 2, Chapter 21"
 sidebar_label: "Book 2, Ch. 21"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 21"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+People readily admit to cowardice or pity — qualities they can frame as soft-heartedness — but not to injustice, incontinence, or envy. The reason is partly that they see an involuntary element in the former and not the latter, and partly that different vices carry different social stigma. The deeper reason is confusion about what is actually good and evil.
+
+The chapter then turns inward: are you one of these people? Epictetus lists the symptoms — coming to school distracted by home politics, thinking about your reputation back in Nicopolis, sitting in class mentally elsewhere while your housemates are watching your progress from afar. If you come to school to chatter about principles, you'll leave with a lighter tongue — that's exactly what you came for. The question is whether what you came for is what you actually need. Like a patient with a stomach ulcer being offered vinegar: theoretically useful, currently harmful. First heal the underlying condition, then apply the more powerful tools.
+
+</details>
 
 <details open>
 <summary>Text</summary>

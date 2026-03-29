@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+sidebar_position: 17
 title: "Discourses — Book 2, Chapter 16"
 sidebar_label: "Book 2, Ch. 16"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 16"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+One of the longest and most emotionally direct chapters in Book 2. The complaint: we can state the principles perfectly in the lecture room and fail completely when life applies pressure. The orator trembles because he's trained to speak but not to handle praise and blame. We're anxious because we've located our good in external things and then are baffled why anxiety persists.
+
+The chapter's emotional arc moves from diagnosis to rebuke to something approaching an exhortation. You're homesick for Athens? For the Acropolis? You carry God within you and pine for pretty rocks? What were you doing at school? The standard is Heracles — who went alone, with no companion but God, and cleansed the world. Not because you're Heracles, but because the inner work — clearing out fear, desire, envy, cowardice — is available to everyone.
+
+The closing prayer is the chapter's peak: "Deal with me as Thou wilt, I am Thine. Lead me where Thou wilt. I will defend Thee before men." This is what the practice is actually for — not the ability to cite Chrysippus, but this.
+
+</details>
 
 <details open>
 <summary>Text</summary>

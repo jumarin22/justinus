@@ -1,5 +1,5 @@
 ---
-sidebar_position: 18
+sidebar_position: 19
 title: "Discourses — Book 2, Chapter 18"
 sidebar_label: "Book 2, Ch. 18"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 18"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The most practical chapter in Book 2 — a training manual for the mind. Every faculty is built or degraded by the corresponding acts. Walk, and you build the capacity for walking. Lie in bed ten days and you can barely cross the room. The mind works identically: yield to anger and the habit of anger is fed and strengthened. Yield to lust and the same. The weal from an old blow, flogged again, becomes a sore.
+
+The method: don't be carried away by the first shock of an impression. Say "wait" to it. Test it. Then replace it with a better one. Track your days: yesterday I was angry; today I wasn't; count thirty days without anger and sacrifice to God — the habit has been broken. Epictetus does this himself openly: "I saw a handsome woman today; I did not picture the next scene; I patted myself on the head."
+
+The Socrates-and-Alcibiades reference is pointed: the victory over that impression — reclining beside the most beautiful young man in Athens and making light of it — is a greater Olympic triumph than any athletic crown. This is what real training produces. Not the ability to argue about "The Liar" — but physical and mental sinews that hold when the impression hits.
+
+</details>
 
 <details open>
 <summary>Text</summary>

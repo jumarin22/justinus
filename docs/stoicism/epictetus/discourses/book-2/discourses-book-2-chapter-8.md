@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 title: "Discourses — Book 2, Chapter 8"
 sidebar_label: "Book 2, Ch. 8"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 8"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+God is beneficent; the good is beneficent; therefore the good shares God's nature. God's nature is intelligence, knowledge, right reason — not flesh or land or fame. The good therefore lies in reason, not in anything plants or animals possess. Animals can handle impressions but can't reflect on that handling; they are means for others, not ends in themselves. Humans are fragments of God, principal works, capable of understanding the divine governance.
+
+The chapter's emotional center is the image of bearing God within you without knowing it, defiling that presence with unclean thoughts and careless actions. You wouldn't behave that way before a statue of Zeus — yet God is actually present, not in bronze but in you. The orphan entrusted to your care analogy makes it personal: God entrusted you to yourself. Are you keeping the trust?
+
+The closing is a statement of what philosophical "sinews" actually look like: will that doesn't fail, avoidance that doesn't fall into evil, appropriate impulse, steady purpose, non-precipitate assent. Not the absence of death or illness — but dying and bearing illness as a god does.
+
+</details>
 
 <details open>
 <summary>Text</summary>

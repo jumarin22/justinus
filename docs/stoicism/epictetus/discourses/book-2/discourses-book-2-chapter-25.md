@@ -1,5 +1,5 @@
 ---
-sidebar_position: 25
+sidebar_position: 26
 title: "Discourses — Book 2, Chapter 25"
 sidebar_label: "Book 2, Ch. 25"
 ---
@@ -15,6 +15,15 @@ sidebar_label: "Book 2, Ch. 25"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The shortest chapter in Book 2 — barely a paragraph. Someone demands proof that logic is useful. Epictetus asks: shall I demonstrate it? The man agrees. Then how will you know if my demonstration is sound or fraudulent — unless you already have some capacity to evaluate arguments? The man has no answer. The trap closes: you've already admitted logic is necessary, because without it you couldn't even evaluate whether logic is necessary.
+
+</details>
 
 <details open>
 <summary>Text</summary>

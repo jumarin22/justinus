@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 title: "Discourses — Book 2, Chapter 9"
 sidebar_label: "Book 2, Ch. 9"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 9"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Man is a rational animal. The rational faculty distinguishes us from beasts and sheep. Act like a beast — combative, angry, reckless — and you destroy the man in you. Act like a sheep — following appetite, random and inconsiderate — and the same.
+
+The chapter's sting is in the closing: being unable to fulfill the basic calling of a man, we adopt the calling of philosopher — which is a heavier burden, not a lighter one. It's like someone who can't lift ten pounds trying to lift Ajax's boulder. Philosophical discourse without philosophical character isn't philosophy; it's performance. You can expound Stoic doctrine more fluently than Epictetus and still be a Jew acting Greek — someone performing an identity they haven't actually inhabited. The principles need to be digested, not stored.
+
+</details>
 
 <details open>
 <summary>Text</summary>

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 17
+sidebar_position: 18
 title: "Discourses — Book 2, Chapter 17"
 sidebar_label: "Book 2, Ch. 17"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 17"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The first business of philosophy is casting away the conceit of knowing. Everyone has primary conceptions of good, evil, noble, just. The problem isn't that we lack them — it's that we can't apply them correctly to particular cases, and we don't know we can't. Theopompus's objection to Plato's definitions misses this: yes, everyone uses the word "good," but look at how differently they apply it. Medea's case is the most dramatic illustration: she had a conception of what it means for one's will to go unfulfilled — she just located the will wrongly, in having her husband, rather than in her own rational dispositions.
+
+The chapter surveys all three departments of Stoic study (will, impulse, assent) and argues that even the first — getting your desires and aversions in order — is demonstrably not being done. If it were, you wouldn't feel miserable and hindered. The chapter ends with an exasperated challenge: find one young man who has come to school to actually do this work, rather than to compare writing styles and read each other's dreams. One such person would be enough. Show him to me.
+
+</details>
 
 <details open>
 <summary>Text</summary>

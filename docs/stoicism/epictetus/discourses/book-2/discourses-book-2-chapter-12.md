@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 13
 title: "Discourses — Book 2, Chapter 12"
 sidebar_label: "Book 2, Ch. 12"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 12"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Most of us can't actually do what Socrates did: guide someone to discover a contradiction in their own thinking without insult, without losing patience, without needing a crowd as a witness. We either overwhelm people with technical terminology they can't follow, or we get frustrated and mock them. Neither works.
+
+Socrates drew out consequences naturally from what his interlocutor already believed, until the contradiction became undeniable. He never needed anyone else to validate his argument — the person he was talking to was his only required witness. His other essential quality was equanimity: he bore abuse without returning it and quieted arguments rather than inflaming them.
+
+The chapter closes with characteristic self-deprecation: Epictetus says this was a pursuit he had a keen taste for once, before he was reduced to his current condition — meaning his lameness. The implication is that the Socratic practice of engaging powerful Romans with uncomfortable questions now carries too much physical risk for an old slave-born philosopher.
+
+</details>
 
 <details open>
 <summary>Text</summary>

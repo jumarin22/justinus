@@ -1,5 +1,5 @@
 ---
-sidebar_position: 19
+sidebar_position: 20
 title: "Discourses — Book 2, Chapter 19"
 sidebar_label: "Book 2, Ch. 19"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 19"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Opens with the "Master" argument — a formal logical puzzle about necessity and possibility — which Epictetus presents and then cheerfully admits he can't resolve. He knows the positions various schools take; he doesn't have his own view because he hasn't examined the question from first principles. He's reporting it like a grammarian reports facts about Troy.
+
+And that's fine for literary questions. It's catastrophic for questions about good and evil, which are questions about how to live. If your Stoic principles are equally just received opinion — something you recite like a catalogue of Trojan heroes — then test yourself: go on a voyage in a storm. Face an accusation before Caesar. Will you remember what you told us about death and exile and pain? Or will you be pale and trembling while someone asks you why you're trembling?
+
+The chapter closes with one of Epictetus's sharpest direct challenges: show me a Stoic. Not someone who can recite Stoic phrases — anyone can do that. Show me someone sick and yet happy, in exile and yet happy, dying and yet happy. Show me someone in the *moulding* if you can't show me the finished work. The gap between having the theory and being the thing is the whole problem — and the whole point of being here.
+
+</details>
 
 <details open>
 <summary>Text</summary>

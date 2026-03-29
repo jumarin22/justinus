@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24
+sidebar_position: 25
 title: "Discourses — Book 2, Chapter 24"
 sidebar_label: "Book 2, Ch. 24"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 24"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A visitor complains that Epictetus never speaks to him. Epictetus's response is a progressive demonstration of why: speaking well requires a skilled speaker; but hearing well requires a skilled listener. Do you know what a man is? What nature is? What demonstration is? What is true and what is false? If you can't answer these, there's nothing for philosophy to grip. You're like a stone set beside grass — the sheep won't be roused to eat.
+
+The Achilles and Agamemnon digression reinforces the point: all their conflict came from not knowing what was actually expedient — forgetting who they were and why they came to Troy in the first place. Ignorance of fundamentals corrupts everything downstream.
+
+The chapter closes bluntly: nothing about this visitor excites Epictetus's interest. His body is nothing, his clothes excessive, his manner empty. A philosopher is moved by the right kind of soul the way a horse-breeder is moved by a fine horse. Show yourself worthy and the discourse will follow naturally.
+
+</details>
 
 <details open>
 <summary>Text</summary>

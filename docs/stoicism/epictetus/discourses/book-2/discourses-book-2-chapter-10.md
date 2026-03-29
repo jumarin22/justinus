@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 title: "Discourses — Book 2, Chapter 10"
 sidebar_label: "Book 2, Ch. 10"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 10"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A meditation on role and identity. Each name you bear — Man, Son, Brother, Councillor, Father — carries its own appropriate acts. Fulfilling those acts is what keeps you what you are; violating them is not a neutral choice but a self-destruction.
+
+The accounting of losses is the chapter's sharpest move. We readily count losses of property or physical function as real harm. But losing honor, trustworthiness, gentleness, self-control — we treat these as nothing, because no cash disappears. Epictetus reverses the valuation: the losses that come from outside the will (illness, poverty) are not dishonoring. The losses that come from our own choices — those are the only ones that actually diminish what you are. The man who harms another in retaliation harms himself; he's just too focused on whether the other person lost anything to notice.
+
+</details>
 
 <details open>
 <summary>Text</summary>

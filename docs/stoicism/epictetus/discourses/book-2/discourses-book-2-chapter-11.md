@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 12
 title: "Discourses — Book 2, Chapter 11"
 sidebar_label: "Book 2, Ch. 11"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 11"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Philosophy begins not with enthusiasm for ideas but with recognizing that you don't know what you think you know. Nobody comes into the world with innate knowledge of geometry or music — so those who lack it don't pretend to have it. But everyone comes in with natural conceptions of good, bad, noble, just — and so everyone assumes they can apply these correctly. This confidence is the problem.
+
+The conflict between human minds isn't about whether good is desirable or justice is noble — everyone agrees on those. The conflict is in application: what counts as good? what counts as just? Two people with opposite answers both believe they're applying the concept correctly. Personal conviction can't be the standard; madmen are equally convinced of their rightness. So philosophy begins precisely here — recognizing that a standard external to opinion is needed, then seeking it. The balance and the ruler are to weights and lines what philosophy is to judgments about good and evil.
+
+</details>
 
 <details open>
 <summary>Text</summary>

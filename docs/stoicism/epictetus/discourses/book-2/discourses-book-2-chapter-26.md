@@ -1,5 +1,5 @@
 ---
-sidebar_position: 26
+sidebar_position: 27
 title: "Discourses — Book 2, Chapter 26"
 sidebar_label: "Book 2, Ch. 26"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 26"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The final chapter returns to a theme from Book 1: error is always involuntary in the sense that the person erring believes they are doing right. The thief wants his own interest; if he knew thieving was against his interest, he wouldn't thieve. Every rational soul recoils from internal conflict — the problem is not seeing the conflict that's already there.
+
+This is why Socrates needed no external witnesses: he only needed to show someone clearly that they were doing what they didn't wish to do and not doing what they wished. Once the conflict becomes visible, rational nature compels revision. If you can't make someone see the conflict, blaming them for persisting in error is misplaced — they're acting on a genuine impression that they're right. The task is always to illuminate, not to condemn.
+
+</details>
 
 <details open>
 <summary>Text</summary>

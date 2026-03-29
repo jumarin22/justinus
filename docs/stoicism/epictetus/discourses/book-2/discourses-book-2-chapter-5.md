@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 title: "Discourses — Book 2, Chapter 5"
 sidebar_label: "Book 2, Ch. 5"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 5"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The dice game analogy opens it: the dice and counters are indifferent — the skill is in playing whatever comes up well. External things must be handled with care (it matters how you use them) but without anxiety (they themselves have no ultimate value). These two attitudes seem in tension but aren't; the difficulty is psychological, not logical.
+
+The voyage image carries the weight: choose your helmsman, choose your moment, do your part. If the ship goes down anyway, you drown — but without fear or accusation. You're a part of the universe as an hour is part of a day, present now and gone when the hour passes. To ask why you specifically face illness or trial or death is to forget that you're a part, not the whole, and that the part serves the whole.
+
+The ball-game passage is the clearest formulation: Socrates played with life, prison, exile, poison as his ball. He played with skill and balance, treating the ball itself as indifferent. That's the model.
+
+</details>
 
 <details open>
 <summary>Text</summary>

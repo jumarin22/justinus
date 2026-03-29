@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: "Discourses — Book 2, Chapter 1"
 sidebar_label: "Book 2, Ch. 1"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 1"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The apparent paradox — be confident and cautious simultaneously — dissolves once you sort what each applies to. Caution belongs to the will, where real good and evil reside and where error is genuinely possible. Confidence belongs to everything outside the will, where nothing that happens to you can constitute real harm. The two don't conflict because they operate in different domains.
+
+The deer analogy captures how we actually behave: we flee the feathers (externals like death, pain, exile) and run straight into the nets (recklessness about our own character). We're bold where we should be careful and terrified where we should be calm — the exact inversion of wisdom.
+
+The closing reframes freedom: not the legal act of manumission, but the educated condition of a person who no longer has masters. The man who just freed his slave before the praetor may himself be enslaved to money, a lover, or a tyrant's favor. True freedom comes only from knowing what to approach with confidence and what with caution — and practicing it.
+
+</details>
 
 <details open>
 <summary>Text</summary>

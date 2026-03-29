@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 title: "Discourses — Book 2, Chapter 7"
 sidebar_label: "Book 2, Ch. 7"
 ---
@@ -15,6 +15,17 @@ sidebar_label: "Book 2, Ch. 7"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The diviner can tell you about death, danger, and disease — external outcomes. He cannot tell you what is good or expedient, because that knowledge requires understanding good and evil, which he doesn't have. Consulting him about whether to risk your life for a friend is consulting the wrong oracle entirely; the internal diviner — reason — has already answered that question.
+
+The lady sending supplies to an exile despite Domitian's likely confiscation captures the right attitude: the action is hers to perform; what happens after is his to do. We consult diviners out of cowardice, wanting someone to confirm that outcomes will be comfortable. To approach God or divination wanting a particular answer is to try to corrupt the judge and pervert the counselor.
+
+</details>
 
 <details open>
 <summary>Text</summary>

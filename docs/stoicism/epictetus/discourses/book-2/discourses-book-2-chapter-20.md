@@ -1,5 +1,5 @@
 ---
-sidebar_position: 20
+sidebar_position: 21
 title: "Discourses — Book 2, Chapter 20"
 sidebar_label: "Book 2, Ch. 20"
 ---
@@ -15,6 +15,19 @@ sidebar_label: "Book 2, Ch. 20"
 </div>
 *Translated by P.E. Matheson (Oxford: Clarendon Press, 1916)*
 
+
+<details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A philosophical demolition of positions that undermine themselves. The Academic who says nothing is knowable must claim to know that. The Epicurean who says there is no natural human fellowship writes books, lights lamps late into the night, rises early, and labors to persuade strangers — behavior that makes no sense if he actually believed his own doctrine.
+
+Epictetus's deeper point: you cannot cut off human nature. Epicurus, for all his theory, kept behaving as a man — he cared, he wrote, he tried to benefit others. Nature compelled him even as he denied it, just as the Furies compelled Orestes. The Academics keep using their senses while arguing that senses can't be trusted. The fantasy of the chapter — a slave serving vinegar when asked for gruel and oil when asked for ointment, citing Skeptical principles — captures the absurdity.
+
+The closing is the most serious part: these positions, propagated to the young, give cover to the adulterer, the embezzler, the man who neglects his parents. The damage isn't abstract. This is why Epictetus's tone here is less patient than usual — not intellectual sparring but a genuine assessment of what these doctrines do when they escape the seminar room.
+
+</details>
 
 <details open>
 <summary>Text</summary>
