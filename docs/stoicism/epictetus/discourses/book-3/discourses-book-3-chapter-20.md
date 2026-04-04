@@ -17,6 +17,17 @@ sidebar_label: "Book 3, Ch. 20"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+If in logic we recognize that good and evil are in us rather than in propositions — nobody calls "it is night" evil — then the same should apply in life. Health used well is good; used ill, evil. Disease, handled rightly, can yield genuine benefit. Menoeceus died and preserved his nobility; had he lived on ignobly, he would have lost everything worth having.
+
+This extends all the way: a bad neighbor trains you in fairness. A reviler trains you in patience. A bad father — bad for himself, but material for you. Everything is transformable by the Hermes wand — bring illness, death, poverty, condemnation, and the trained mind turns each one into an occasion for blessedness. We know this in the lecture room and abandon it entirely the moment we walk out. The slave boy at home convicts us of knowing nothing every day.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,21 @@ sidebar_label: "Book 3, Ch. 26"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The final chapter of Book 3 addresses the fear of poverty and starvation directly and at length. Runaway slaves manage to survive on nothing in hostile conditions and almost never die of hunger. Yet students of philosophy lie awake terrified of material want. The disproportion is absurd — and the fear is a symptom of having spent the whole philosophical education in the wrong direction.
+
+What you actually fear, Epictetus diagnoses, is not starvation but the loss of luxury — no cook, no masseur, no attendant to hand you things in the bath. That's not the fear of want; it's the fear of a healthy man's life. Socrates, Diogenes, and Cleanthes all lived simply and were not harmed by it.
+
+The chapter builds to its real conclusion: the only thing worthy of confidence is the will — trustworthy, unhinderable, untakeable. Everything else, including the body and property, is on loan. If God signals retreat by not providing food, follow the signal as a soldier follows a general's order — with praise, not complaint. Heracles was not given abundance either; he was subject to Eurystheus and suffered every labor. Yet he was the true ruler, master of himself, while Eurystheus — nominally king — was master of nothing.
+
+Fear of death, not death itself, is the source of cowardice and a base spirit. All the book's training, all the lectures, all the exercises — their final purpose is this: to free you from the fear of death, after which nothing can hold you in servitude.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

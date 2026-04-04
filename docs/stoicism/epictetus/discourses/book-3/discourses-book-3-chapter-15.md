@@ -17,6 +17,19 @@ sidebar_label: "Book 3, Ch. 15"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Before undertaking anything, consider both what comes first and what follows. The Olympic athlete example: before you want the crown, consider what goes into winning it — the discipline, the diet, the sand swallowed, the floggings, the possible defeat. If you're still willing after that honest accounting, proceed. If not, don't start, because stopping halfway is worse than never beginning. The person who undertakes things without forethought ends up like a child — now an athlete, now a gladiator, now a philosopher, nothing with their whole soul.
+
+Applied to philosophy specifically: it costs late nights, hard work, loss of conventional standing, being looked down on by slaves, being ridiculed in the street. If you're willing to pay that price for peace of mind and freedom, come. If not, stay away entirely. You must be one thing or another — you cannot half-cultivate the inner man while keeping all the external trappings.
+
+The final anecdote about Rufus and Galba's death: do not ground your belief in providence on casual historical events. The argument stands on its own and doesn't need the accidents of politics to prop it up.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

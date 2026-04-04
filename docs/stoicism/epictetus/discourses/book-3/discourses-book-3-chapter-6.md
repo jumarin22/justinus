@@ -17,6 +17,19 @@ sidebar_label: "Book 3, Ch. 6"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Three brief aphorisms, loosely connected. First: why did the ancients make more moral progress than we do? Because they spent their effort on keeping the mind in accord with nature, whereas we spend ours on logic and syllogisms. Progress follows effort — neither more nor less. The effort is misdirected, so the progress is in the wrong place.
+
+Second: the good man is invincible because he only enters contests where he cannot lose — contests of the will. Take his land, his servants, his body: none of these are his contest. He cannot be defeated where he does not compete.
+
+Third: Musonius Rufus's method for identifying gifted students was to try to discourage them. The ungifted drift away. The genuinely talented are drawn back harder, like a stone thrown upward that falls with greater force. You cannot hook a cream-cheese, but you can throw a stone.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,19 @@ sidebar_label: "Book 3, Ch. 13"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Forlornness is not solitude — it is exposure to harm without reliable help. You can be forlorn in a crowd, and not forlorn when alone, depending on whether you have trustworthy support. Even Zeus, alone at the Conflagration, is not forlorn in the meaningful sense — because He is self-sufficient.
+
+The chapter works toward this: a person who has internalized the right principles is never truly forlorn. God provides food, raiment, the senses, and primary conceptions; when He sounds the retreat, the door is open and the return is to kindred elements, not to Hades. The murderer on the road can kill your body, not you.
+
+The practical closing: before you can benefit others, benefit yourself first. Stop rushing out to lecture and reform people when you haven't settled yourself. Show philosophy in your daily conduct — at table, in patience with a difficult companion — rather than venting your half-digested opinions on whoever will listen.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

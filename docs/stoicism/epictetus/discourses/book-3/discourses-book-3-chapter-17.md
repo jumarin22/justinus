@@ -17,6 +17,17 @@ sidebar_label: "Book 3, Ch. 17"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Short. The complaint: the unjust man prospers. The answer: in what does he prosper? Money — because he flatters, is shameless, stays awake scheming. Are you willing to do what he does? No? Then you've already conceded he pays a price for what he gets. Would you share Suras's bed for his money? Of course not. Then stop calling him blessed.
+
+The better is always superior in the domain in which it is better. You are superior to the unjust man in trustworthiness and self-respect — which is precisely where the real advantage lies. "My wife treats me badly" — say that and nothing more. Don't add the internal gloss that this is an evil; poverty and bad treatment are not evil. Cast out the judgment about them, not the circumstances.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

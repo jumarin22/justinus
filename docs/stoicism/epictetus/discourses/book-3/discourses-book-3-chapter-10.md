@@ -17,6 +17,17 @@ sidebar_label: "Book 3, Ch. 10"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The same principle applied to sickness that Ch. 5 applied to the temptation to leave school: illness is part of life, not an interruption of philosophy. You walk without reading; you are sick without studying texts. But you can walk rightly, and you can be sick rightly. Being sick rightly means not blaming God or man, not being crushed, awaiting whatever comes without coaxing the physician or fearing his verdict. The physician manages the body — which is not yours and is naturally mortal. He cannot manage how you bear what happens to it.
+
+The two ready principles: nothing outside the will is good or evil; don't try to lead events, follow them. Applied to illness: the physician may withhold water, but he cannot make you thirst wrongly. He may withhold food, but he cannot make you hunger in a spirit of rebellion. That part remains yours regardless of what the body does. Fever, like walking or sailing, is just another circumstance in which to demonstrate whether the training has taken.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

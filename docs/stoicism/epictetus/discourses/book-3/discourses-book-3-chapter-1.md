@@ -17,6 +17,21 @@ sidebar_label: "Book 3, Ch. 1"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A young man arrives with elaborately styled hair and conspicuous attention to his appearance. Epictetus opens with a Socratic sequence: every creature is beautiful by fulfilling its own nature — a dog beautifully, a horse beautifully, but by different standards, since their natures differ. What makes one beautiful makes the other ugly. What then makes a man beautiful? The presence of human virtue — justice, temperance, continence. That's what you praise in others when you're thinking clearly, so that's what you should cultivate in yourself.
+
+The chapter then turns more personal and more pointed. Epictetus debates whether to say anything at all — he could stay silent to avoid offending the young man and losing him, but that would be a failure of his post. Like Apollo who told Laius the truth even knowing he wouldn't listen, and like Socrates who kept questioning even knowing most wouldn't change, Epictetus is obliged to speak. The comparison is characteristically self-deflating: he doesn't claim to be Apollo or Socrates, just a white-bearded man in a philosopher's cloak who was apparently sent to this post and can't honorably abandon it.
+
+The argument against cosmetic self-feminization is partly moral and partly natural: you are a man, which means a rational creature. Adorn what is distinctively yours — the reasoning faculty. Your hair was given to you by God for a reason; nature made men hairy and women smooth, and to reverse this artificially is to work against the nature you were given. The young man is trying to please women by becoming less of a man — which Epictetus finds both illogical and self-undermining.
+
+The closing returns to the core: you are not flesh or hair, you are a rational will. Get *that* beautiful and you will be beautiful. The body should be clean — as a man, not as a woman, and not neglected — but the body is God's concern. Yours is the will.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,17 @@ sidebar_label: "Book 3, Ch. 19"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+One sentence does most of the work: the uneducated man says "woe is me for my child, my brother, my father"; the philosopher, when compelled to lament, says "woe is me for myself." The only thing that can harm you is your own judgment. Everything else happens to things that are not you.
+
+The childhood illustration is vivid: when a child stumbles, the nurse hits the stone. When the child is hungry after a bath, the cook gets flogged. We grow up continuing exactly this pattern — externalizing every cause of distress, blaming everything but our own judgments. That is being a child in the domain of life.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

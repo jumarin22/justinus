@@ -17,6 +17,17 @@ sidebar_label: "Book 3, Ch. 21"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Do not teach before you have digested what you've learned. Undigested precepts vomited onto others are useless and repellent. The carpenter doesn't lecture on carpentry — he builds a house. Show philosophy in how you eat, drink, endure insult, live with a difficult brother, raise children. That is the proof of learning.
+
+The Eleusinian Mysteries analogy is sharp: someone who publicly divulges the Mysteries outside their proper context, without the purification, dress, or sanctity they require, desecrates them regardless of whether the words are correct. The words don't have power in themselves; their power comes from the whole context in which they are rightly transmitted. Philosophy taught by someone unfit for the task is the same desecration. Teaching demands maturity, a certain way of life, and — Epictetus says directly — the counsel of God. Socrates, Diogenes, and Zeno were each assigned their specific task by divine indication. You have not been assigned yours. Sit quietly with the precepts until you have been.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

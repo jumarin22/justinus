@@ -17,6 +17,23 @@ sidebar_label: "Book 3, Ch. 22"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The longest chapter in Book 3 by some distance, and one of the most important in the entire Discourses. Someone asks whether the Cynic life is something to be recommended. Epictetus's answer is: only to the right person, and that person is extremely rare.
+
+The Cynic's role is essentially that of a scout and messenger — sent ahead by God to report back to humanity on what is truly good and evil, what is truly fearful and what is not. Like Diogenes, he must be able to approach any king or any man and speak without deference, without flattery, with complete freedom. This requires that he have genuinely subdued every passion and impulse, because he cannot afford to be caught contradicting his own message. His life is his argument. If the Cynic eats greedily, or lusts after a woman, or flinches before a tyrant, the entire mission collapses.
+
+This is why the prerequisites are so demanding. The Cynic must have no entanglements — no wife, no children, no country to protect — not because these things are bad, but because they divide loyalty and create vulnerabilities. He must be able to be struck and say "love me as a father should." He must be able to walk in the rain barefoot and sleep on the ground and eat whatever comes and still radiate health and serenity, so that people can see in his body the proof of his teaching.
+
+The chapter explicitly rejects the half-Cynic: the person who adopts the staff and cloak and begging-bag as a costume but still harbors the normal human attachments and fears. That person is not a Cynic; he is an imposter, and a damaging one, because he brings the entire calling into disrepute. Better not to attempt it at all than to do it badly.
+
+The right Cynic is compared to Socrates and Diogenes — figures who were what they were because God assigned them to that post. It is not a career choice. It is a calling that requires divine sanction, immense natural gifts, and years of genuine preparation. Epictetus is blunt: most people inquiring about the Cynic life are looking for an excuse to be lazy and dirty without social consequence. That is not what Diogenes was doing.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,17 @@ sidebar_label: "Book 3, Ch. 25"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Unlike athletic competitions, the contest of philosophy has no four-year waiting period. Whenever you fail — whenever an impression overcomes you, or you give way to fault-finding — you can immediately return to the struggle with full force. The only danger is becoming comfortable with failing, drifting into habitual defeat without pain or penalty.
+
+The student's excuse — "I was overcome by a pretty girl, but didn't I fail the same way last time?" — is not an excuse but a confession. A slave remembers floggings and avoids repeating offenses because failure hurts. In philosophy there is no automatic external pain from moral failure, which means you have to supply the memory and the motivation yourself. Without that, the habit of failure simply deepens.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

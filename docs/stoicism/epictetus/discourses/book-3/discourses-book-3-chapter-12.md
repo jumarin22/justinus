@@ -17,6 +17,19 @@ sidebar_label: "Book 3, Ch. 12"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Training must be directed at what philosophy actually aims at: keeping the will to get from failing and the will to avoid from falling into what it avoids. Training in spectacular physical stunts — tightrope walking, palm-tree climbing — is irrelevant to this and merely displays skill for an audience. True training is private and targeted at your specific weaknesses.
+
+The method: go in the opposite direction from your natural inclinations. If you lean toward pleasure, practice restraint. If you avoid hardship, practice endurance. The battle against a pretty maid or a piece of sweet cake should be deferred until you've built up strength through easier exercises first — don't engage the stronger enemy before you're ready.
+
+The three departments from Ch. 2 reappear: will, impulse, assent. All three require targeted exercise. The chapter closes with Apollonius's instruction: if you want to train your soul, drink cold water on a hot day and spit it out — and tell no one. The training is ruined the moment it becomes performance.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

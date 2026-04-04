@@ -17,6 +17,21 @@ sidebar_label: "Book 3, Ch. 23"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The longest chapter in Book 3 and one of the sharpest in the whole work. The target is the philosopher-performer: the person who uses philosophical content to generate admiration rather than to do actual good to himself or his hearers.
+
+The diagnostic: when your audience is sparse you leave dejected; when praised you go around reporting it. You flatter the senator's son because he admires you. Your will to get and will to avoid are entirely governed by reputation — the opposite of what you claim to teach. Your admirers secretly know you want something from them.
+
+The Socrates contrast runs throughout: Socrates never invited anyone to hear him; people came because they knew they would be helped. He sent those seeking rhetoric to the rhetoricians. He never published his learning or sought to display it. He spoke so that each person in the room felt personally accused. Rufus the same: "If you find leisure to praise me, my words are spoken in vain."
+
+The consulting-room image: a philosopher's school should be like a physician's surgery — you leave it in pain, not pleasure, because you came in disorder. If students leave talking about "what a beautiful description of Xerxes," the words were spent on nothing. The purpose of the hortatory style is to show people what a sordid struggle they are living and that they are seeking happiness in entirely the wrong place. Using it to show off your composition is a desecration of a noble instrument.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,17 @@ sidebar_label: "Book 3, Ch. 11"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Two brief points. First: mislocating the good carries automatic penalties built into the nature of things. Place your good in externals — envy, desire, flattery, and distraction follow necessarily. Place your evil in externals — distress, lamentation, and misfortune follow. These aren't punishments imposed from outside; they're the natural consequences of the wrong valuation. We suffer them constantly and still don't change.
+
+Second: the obligations of hospitality toward strangers, fathers, and brothers all derive from Zeus — Zeus as protector of guests, Zeus as god of fathers and kindred. Every relationship has a divine backing that makes its claims independent of whether the particular person deserves them.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

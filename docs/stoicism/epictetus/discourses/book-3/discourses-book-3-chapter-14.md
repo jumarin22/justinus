@@ -17,6 +17,15 @@ sidebar_label: "Book 3, Ch. 14"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Four brief aphorisms. Walk alone and talk to yourself — don't hide in the chorus where no one's individual weakness shows. If you drink water for health, do it silently; announcing it means you're performing for an audience. Actions have different bases — some from first principles, some from circumstance or compromise. And two qualities must be eradicated: conceit (thinking you need nothing beyond yourself) and diffidence (thinking the good life is impossible for you). Socrates removed conceit by cross-questioning; the possibility of the good life is shown by reflection. Status comparisons — my father was a consul, I have fine horses — are the boasts of asses. Show your superiority in self-respect, honor, and justice, or say nothing.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

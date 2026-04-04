@@ -17,6 +17,17 @@ sidebar_label: "Book 3, Ch. 7"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+One of the more extended philosophical confrontations in the Discourses. Epictetus draws the Epicurean official into agreeing, step by step, that the soul is better than the body, that the goods of the better element are preferable, and that the pleasure of the soul arises from genuine goods. But Epicurus locates the good in bodily pleasure — which means, followed consistently, that stealing is fine if undetected, that corrupting your neighbor's wife is rational if safe, that breaking someone's neck is expedient if convenient. Epictetus spells this out without irony: if you really believe the flesh is primary, then act accordingly. The official's actual decent behavior convicts his own philosophy.
+
+The chapter broadens into a critique of Epicurean social philosophy: a city run on Epicurean principles would have no marriages, no children, no citizens. It would collapse. And the official's authority — his patents from Caesar, his power to imprison and flog — is not genuine governance. Real governance of rational beings works through showing what is expedient and letting reason follow. Socrates governed men by getting them to submit their will and impulse to examination. Coercion governs bodies; reason governs men.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

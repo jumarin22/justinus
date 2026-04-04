@@ -17,6 +17,15 @@ sidebar_label: "Book 3, Ch. 18"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+News cannot reach the will. Someone is dead — that doesn't affect your will. Someone speaks ill of you — that doesn't affect your will. Your father has a design against you — against your body and property, not against you. A judge pronounces you guilty — the judge's error is the judge's problem; your task was to defend yourself with self-respect and firmness, and that you could always do regardless of the verdict. "He threatens you" — no, he threatens your body. "He condemns you unjustly" — all the worse for him. Sort out which part of you is actually being reached, and you'll find that news, threats, and condemnations touch nothing that is actually yours.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

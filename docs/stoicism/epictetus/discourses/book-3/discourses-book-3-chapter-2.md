@@ -17,6 +17,27 @@ sidebar_label: "Book 3, Ch. 2"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Epictetus lays out the three departments of philosophical training in explicit order of priority:
+
+1. **Will** — getting what you will to get, avoiding what you will to avoid. This is first because failure here produces all the strong emotions: disturbance, grief, envy, jealousy. Everything that makes reason inaccessible originates here.
+2. **Impulse** — acting appropriately, with order and care, maintaining your natural roles as son, father, citizen. Not becoming emotionally numb like a statue, but acting fittingly within your relationships.
+3. **Assent** — reaching such certainty in your judgments that even sleep, drunkenness, or depression can't catch you off guard with an untested impression.
+
+The third department is for people already well advanced in the first two. It presupposes that the foundations are solid.
+
+The problem: contemporary philosophers have completely inverted this order. They skip one and two entirely and go straight to three — variable syllogisms, hypothetical arguments, logical puzzles. As if securing your judgments against sophistry matters when you still collapse at a critical word about your reputation, tremble when someone questions your standing as a philosopher, and puff up when praised.
+
+The portrait of the student is devastating: soul inflating to "two cubits" when called the best philosopher, then going pale and furious when contradicted — and all this while supposedly studying the advanced curriculum. You value your reputation over your will. You look outward for confirmation. You come before us mean, vainglorious, quick-tempered, blaming everyone.
+
+The closing image makes the point cleanly: fine sailors, in good trim, can light a fire and dance. But when the ship is sinking, hoisting the topsails is not the appropriate next move. Get the foundational work done first.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

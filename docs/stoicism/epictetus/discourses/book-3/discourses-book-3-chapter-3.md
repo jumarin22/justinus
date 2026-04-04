@@ -17,6 +17,21 @@ sidebar_label: "Book 3, Ch. 3"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The good man's material is his own governing principle — just as the physician's material is the body, the farmer's is the land. The soul naturally assents to what is true, recoils from what is false, and is drawn toward what is good. This isn't a choice; it's how the soul is built. Like a merchant who can't refuse the emperor's currency, the soul cannot reject a clear impression of the good once it sees it.
+
+This has a sharp implication for family and kinship: if good lies in the will, then father, brother, and country are secondary to it. Not because they don't matter, but because they can't compete with the good when the two conflict. "My father is taking away my money" — but he isn't harming your character. "My brother gets the larger share" — let him have it. He cannot take your will.
+
+The daily practice follows from this: from dawn onward, apply the rule to every impression you meet. A beautiful person — is that within the will's control? No. A consul — within the will? No. A mourner — is death within the will? No. Dismiss each in turn. We currently do the opposite: we walk out of the lecture room and immediately call the exile miserable, the consul lucky, the poor man wretched — all judgments about things outside the will, treated as if they were genuine goods and evils.
+
+The water-and-light image closes it cleanly: impressions disturb the soul the way light appears to ripple when water is stirred. The light itself isn't disturbed — and neither are the virtues. When the soul settles, they come to rest again.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,19 @@ sidebar_label: "Book 3, Ch. 8"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A practical drill, presented almost as flash-card training. Every impression that arrives should be met with an immediate classification: is this within the will or outside it? If outside, it is not an evil. Death of a son — outside the will, not an evil. Shipwreck — outside the will, not an evil. Prison — outside the will, not an evil. Noble endurance — within the will, a good. Grief indulged — within the will, an evil.
+
+The point is to strip the narrative down to the bare fact: "the son dies" — that is what happened. Nothing more. Anything added — "he has fared ill," "Zeus does wrong" — is the person's own addition, their own affair. Just as we train to handle sophisms, we must train to handle impressions from daily life with the same clean, practiced response.
+
+The chapter ends with a wry aside: Italicus, highly reputed among Romans as a philosopher, once pointed to Epictetus in distress and said, "You are ruining me — you will make me like *him*." Epictetus reports this without comment. The joke is self-evident.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

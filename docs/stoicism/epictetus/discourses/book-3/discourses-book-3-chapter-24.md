@@ -17,6 +17,23 @@ sidebar_label: "Book 3, Ch. 24"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+One of the most emotionally direct chapters in Book 3. The argument is built around the analogy of travel: when you go abroad, you arrange things at home as best you can and then accept what the journey brings. You don't demand that the sea be calm or the inn be good or the road be free of bandits. You adapted to the circumstances, having done what was yours to do beforehand.
+
+Life is exactly the same. Your post has been assigned — this country, these parents, these brothers, this body. You did not choose them; you were placed here by God. The task is not to demand different circumstances but to play the assigned role well. The man who plays Thersites should play him well; the man who plays Agamemnon should play Agamemnon well. The role itself is not yours to select.
+
+The chapter then addresses the grief of separation directly and at length — the person who cannot bear to be separated from a particular friend, or child, or place. Epictetus does not dismiss the natural pull of affection. But he draws the line clearly: training yourself to weep whenever you think of someone you love is training yourself into slavery. The world cannot remain fixed to suit your attachment. People die, go away, change. If your peace of mind depends on their remaining as they are, every change they undergo destroys you.
+
+The Stoic solution isn't coldness — it's loving while holding loosely. You can give everything to a role, a person, a place, and still carry within you the knowledge that it is returnable on demand. The person who has this is not less loving; they are more genuinely present, because they are not secretly demanding that the world guarantee them against loss. The person who cannot do this — who grips so tightly that any threat of loss is already suffering — is making everyone around them into hostages, and themselves into a prisoner of fortune.
+
+The chapter closes with Caesar and the kind of peace he can and cannot provide. He can stop wars and pirates and bandits on the road. He cannot stop fever, shipwreck, grief, love, or envy. The peace philosophy offers reaches exactly where Caesar's power stops. This is not a small offer.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

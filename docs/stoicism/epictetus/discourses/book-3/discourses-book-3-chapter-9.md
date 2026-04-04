@@ -17,6 +17,19 @@ sidebar_label: "Book 3, Ch. 9"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A man traveling to Rome to defend his official position asks Epictetus for advice on his case. Epictetus declines to advise on outcomes — that's not philosophy's domain — but offers this: how you do depends entirely on the quality of your judgments. Every action, including this journey, traces back to a judgment. If the judgments are sound, the action will be sound.
+
+The deeper problem Epictetus identifies is that this man has never once examined his judgments. He reviews his whole life — boyhood, youth, early public career — and finds no point at which he stopped to test what he actually believed about what was good. He sailed to Rome in a storm for a patronage position, but has never made comparable effort for tranquility or a mind in accord with nature.
+
+The jar-of-raisins image closes it: the child fills his hand inside the narrow neck and can't pull it out, and cries. Let a few go and your hand comes free. The man is clutching too much. His desire is insatiable; Epictetus's is already fulfilled. The man has gold vessels but clay reason; Epictetus has the reverse.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

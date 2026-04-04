@@ -17,6 +17,17 @@ sidebar_label: "Book 3, Ch. 16"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Extended coal-and-fire metaphor: put a cold coal next to a burning one and one of two things happens. When you mix with the untrained, either they contaminate you or you convert them — and the odds heavily favor contamination. Their "bad" views have the force of genuine conviction behind them; your philosophical words are still just words on your lips, without the force of digested judgment. That's why the untrained win these encounters.
+
+The prescription: while your principles are still in wax form, stay away from the heat. Go somewhere new if necessary — as physicians send long-ill patients to a new climate. Old habits and old social circles are a drag that makes new habits almost impossible to form. This is the reason philosophers have historically advised leaving home. You can return once the principles are fixed. Until then, the daily movement between lecture room and theatre and back undoes everything.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

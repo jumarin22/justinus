@@ -17,6 +17,19 @@ sidebar_label: "Book 3, Ch. 4"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A Roman official, Caesar's Procurator, behaved badly at a theatrical performance — shouting, jumping from his seat, carrying on — and then complained to Epictetus that the crowd reviled him for it. Epictetus's response is simple: what did you expect? You are the one they watch. If Caesar's representative behaves that way, the people conclude that's how one behaves, and they follow. You set the pattern.
+
+The deeper point is about wanting outcomes you can't control. The official wanted his favored performer crowned; the crowd wanted someone else. Both were pursuing something outside their will, which put them in conflict, and the weaker party — the crowd — did what weaker parties do when blocked: they reviled him. This is perfectly natural. Farmers revile Zeus when the harvest fails. Sailors curse the sea. Caesar is reviled constantly.
+
+The remedy is to enter the theatre not wanting a particular outcome but wanting to keep your will in accord with nature. Then whoever wins, wins — and your wish is always fulfilled. If you want Sophron crowned, hold your own contest at home and crown him there. In public, don't claim more than your share.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,19 @@ sidebar_label: "Book 3, Ch. 5"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A student wants to go home because he's ill. Epictetus's response: were you never ill at home? What exactly do you think going home will accomplish? If you're making no progress here — if your governing principle is not being brought into accord with nature — then by all means leave and tend your farm and your money and your aging father. But if you are making progress, why should illness change that? Disease and death overtake the farmer farming, the sailor sailing. They will overtake you regardless of where you are. The only question is what you want to be doing when they arrive.
+
+Epictetus then offers his own answer to that question in a passage of unusual personal warmth: he would wish death to find him caring for his will — calm, unhindered, free — so that he could say to God: I fell sick when it was your will and did not rebel; I was poor when you willed it and rejoiced; I leave the festival now with gratitude for having been admitted to it at all.
+
+The student's complaint about wanting his mother to hold his head earns a dry response: go to your mother then, you deserve it. The chapter closes with Socrates, who found his improvement in never blaming anyone, going in and out with the same face, accusing neither God nor man — and who never called this teaching or philosophy, but simply his daily practice. If you were genuinely in love with that practice the way a man is in love with a beautiful girl, no illness or hardship would be enough to pull you away from it.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text
