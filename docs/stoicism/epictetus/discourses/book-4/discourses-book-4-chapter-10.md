@@ -17,6 +17,19 @@ sidebar_label: "Book 4, Ch. 10"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+All human anxiety concerns externals — what will happen, how it will turn out, what I might lose. No one asks "how do I avoid assenting to the false?" or "how do I keep my will in order?" because these are in our power and therefore cause no anxiety. Anxiety is always the diagnostic sign of misplaced desire.
+
+The Heracles image: Heracles didn't ask how to prevent a lion from appearing. He trained to face whatever came. The question isn't what circumstances will bring but what you are doing when they arrive. Epictetus gives his own answer: he would wish to be found tending his governing principle — calm, unhindered, unconstrained, grateful to God, having used what was given well — and able to say at the end: "Take it back, all of it: it was always yours."
+
+The final accounting is exact: you cannot attend to both the governing principle and the consulship. One business interferes with another. If you want the consulship, do what it takes — late nights, hand-kissing, flattery, humiliation. If you want freedom from passion, do what that takes. You cannot have both, and pretending otherwise wastes both.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

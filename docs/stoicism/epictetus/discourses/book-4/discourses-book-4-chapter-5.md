@@ -17,6 +17,19 @@ sidebar_label: "Book 4, Ch. 5"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The good man does not contend with anyone, because he understands that no one controls another's governing principle. Socrates is the example: patient with Thrasymachus, with Callicles, with his shrewish wife, with his son — not from weakness but from understanding that trying to force another's judgment is not his business.
+
+The neighbor who throws stones: your crockery may be broken, but you are not a piece of crockery. You are a rational will. The question is what faculties you have been given to deal with this — not the wolf's faculty of biting back, but the human faculty of reason and trustworthiness. A horse is wretched when it can't run; a dog when it can't follow a trail; a man when he loses his rational faculty. That is the only genuine loss — not property or reputation, but the stamp of good judgment. Check what stamp a man's judgments bear: if they are gentle, sociable, patient, he passes; if they bear the stamp of Nero, throw the coin away.
+
+The chapter's conclusion mirrors Book 1: all conflict — Troy, Thebes, every war — traces to wrong judgments about what is good. When the good is located in the will, there is nothing left to fight over.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

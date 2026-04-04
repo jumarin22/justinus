@@ -17,6 +17,19 @@ sidebar_label: "Book 4, Ch. 11"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A defense of bodily cleanliness that works from the inside out. The primary purity is the soul's — right judgments, which alone keep it functioning correctly. But bodily cleanliness follows naturally from this, because reason tends toward purity as it approaches the divine, and because living in society with other people imposes obligations of consideration.
+
+The argument against deliberate dirtiness is social: you don't have the scent to yourself when you sit next to others and recline next to others. If you've been entrusted with a body the way you'd be entrusted with a horse, neglecting it entirely is a failure of stewardship.
+
+The Socrates defense: his rare bathing was effective bathing; his body was healthy and attractive in spite of austerity, not because of filth. Deliberate squalor as a philosophical statement repels the very people philosophy should attract — particularly young people whose first impulse toward the beautiful could be redirected toward reason, but who will never enter the door if what stands there looks like a condemned man wallowing in a dunghill.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

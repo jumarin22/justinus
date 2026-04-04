@@ -17,6 +17,19 @@ sidebar_label: "Book 4, Ch. 7"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Why does a child not fear the emperor's guards? Because he doesn't understand what they represent. But what about the man who understands perfectly and still feels nothing — because he has made his peace with death and has no stake in what the guards can take? The guards are only fearful to those who value what they can destroy. If you value nothing they can touch, they are simply irrelevant.
+
+The chapter draws the full conclusion: the person who has placed good and evil entirely in the will — who takes poverty, exile, illness, and death as simply the material of this moment's role — cannot be threatened by any tyrant. Not because he is reckless or suicidal, but because he has genuinely surveyed what the tyrant can do and found nothing there that constitutes harm. Body and property are returned without regret; the will was never theirs to take.
+
+The swords: they kill. So does fever, so does a falling tile. If you've understood that what's born must be returned, it makes no practical difference which instrument does the returning. The man who has understood this doesn't press in at the emperor's door craving favors; he plays the game cheerfully while it lasts, and when the signal comes to stop, he stops. This is not defiance; it is obedience to the only authority that actually matters.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

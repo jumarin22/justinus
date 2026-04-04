@@ -17,6 +17,17 @@ sidebar_label: "Book 4, Ch. 9"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+A direct address to someone who has genuinely backslid — who was once self-respecting and has allowed himself to become dissolute. The losses are catalogued: self-respect, decency, the kind of reading that fed the soul, the character that once made him walk and dress and speak like a man. He has exchanged Chrysippus and Zeno for flattery and cosmetics and the pursuit of women. Can he say he has lost nothing?
+
+The remedy: fight against yourself, not against anyone else. No one is easier to persuade than yourself, and no one is better positioned to do it. The training analogy from earlier books: fall down, get up, wrestle again. The mind is the most amenable thing there is — yield, and you are swept away; resist, and everything can be recovered. The stakes are stated simply: shameless to self-respecting, undisciplined to disciplined, dissolute to self-controlled. If you want something greater than that, no god can help you.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

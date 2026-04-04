@@ -17,6 +17,17 @@ sidebar_label: "Book 4, Ch. 6"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The man vexed at being pitied hasn't actually convinced himself that poverty and lack of office are not evils. If he had, he wouldn't care what anyone thought. His distress at the pity is the proof that he still half-believes the pitters are right.
+
+The argument is layered: you cannot both hold right judgments and care that others don't recognize them. If you are genuinely convinced, you are richer than the officeholder and the rich man — as rich as Antisthenes who told Cyrus "to do well and be ill-spoken of." You go about saying "all is well with me" while laughing privately at those who pity you for poverty. But if you are genuinely bothered, you have revealed that your principles are still words in the cupboard, unused. The final turn: you are not bothered because others pity you, but because you are not yet satisfied with what you have. You hanker after what they have. That is the real problem — not their pity but your own unconviction.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

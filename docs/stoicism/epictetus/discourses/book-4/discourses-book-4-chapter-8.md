@@ -17,6 +17,19 @@ sidebar_label: "Book 4, Ch. 8"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Do not praise or blame anyone for externals — dress, hair, manner of washing — without knowing the judgments underneath. A man planes badly: he is not a bad carpenter, he is not a carpenter. A man misbehaves: he is not a bad philosopher, he is not a philosopher. The mistake of judging philosophy by the conduct of its self-proclaimed practitioners reflects confusion about what philosophy's subject matter actually is. Its subject is reason; its end is right reason; its marks are internal.
+
+Euphrates was right to conceal his philosophical practice for years: everything he did correctly was done for himself and God, not for spectators. The risk of failure was entirely his own; philosophy wasn't endangered by his errors because no one knew he claimed it.
+
+The second half attacks the opposite error: people who assume the cloak and long hair and staff of the philosopher before the inner work is done, like a seed that pushes up a shoot before the root is established. The first frost destroys it. Real development is slow, hidden, and requires waiting until nature forces the fruit without being prompted. The impatient philosopher who starts lecturing and disputing before he has changed his own judgments will wither at the first real difficulty, having bloomed insolently before his time.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,19 @@ sidebar_label: "Book 4, Ch. 12"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Inattention is not a neutral state — it is a habit that compounds. Every time you relax attention and defer it to tomorrow, you make tomorrow's inattention slightly more likely. Saying "I will attend tomorrow" means "today I permit myself to be shameless, inopportune, angry, and envious." Name those consequences plainly and the foolishness becomes obvious.
+
+The required principles are few and must be kept constantly ready: nothing outside the will is good or evil; no one can give you genuine good or genuine harm except yourself; you have one authority to please. From these, specific attention follows: what is appropriate now, with these people, in this role? When is it time to joke, when to be serious, when to yield, when to hold firm?
+
+Perfection is not achievable, but continuous effort toward it is. The goal is not to make no errors but to miss fewer of them — and that requires attending now, not tomorrow.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

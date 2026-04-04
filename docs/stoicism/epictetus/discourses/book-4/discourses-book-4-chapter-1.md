@@ -17,6 +17,31 @@ sidebar_label: "Book 4, Ch. 1"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The longest chapter in the entire Discourses, and in many ways its culmination. The question is simple: what is freedom? And who is free?
+
+Epictetus opens by dismantling the legal and social definitions. Manumission doesn't free anyone. The man who has just been freed before the praetor immediately asks: "Who will I live with? Who will I work for? What will I wear?" He has exchanged one master for several — fear, desire, the opinion of powerful men, the need to flatter. Legal freedom is simply a change of masters.
+
+True freedom is defined precisely: the ability to live as you will, unhindered, uncompelled, not subject to obstruction. By this definition, almost no one is free. The rich man is enslaved to his property; the senator to his office; the man who fears illness is enslaved to his body; the man who craves a particular woman is enslaved to her. Every desire directed at something outside the will creates a master.
+
+The chapter then works through a series of cases — the man who wants his son to succeed, the man who fears exile, the man who grovels before the emperor — each demonstrating that the precise boundary of your slavery is wherever you have placed your desire. Your master is whoever controls what you care about. If you care about your daughter's marriage, whoever can affect it has power over you. If you care about nothing outside the will, no one does.
+
+The historical examples are vivid. Felicio was a useless shoemaker whom Epaphroditus sold; appointed to Caesar's household, he became "wise" overnight and everyone sought his favor. This is what slavery to externals looks like in practice: the same man, the same judgment, transformed into an object of veneration by a change of position. The philosopher watches this and feels nothing, because he has nothing at stake in what Caesar's household contains.
+
+The Diogenes passage is one of the most striking in all the Discourses. When pirates captured him, he was not distressed — he played with the children on the ship, mocked his would-be purchaser, and when asked what he was good for, said "governing men." He was sold to Xeniades of Corinth, took charge of his household and children, and Xeniades reportedly said that a good spirit had come to live in his home. This is the free man: authority over himself so complete that captivity and sale change nothing essential.
+
+The chapter addresses slavery and manumission directly, which is unusual for Epictetus given his own history as a slave. His argument is that legal slavery is irrelevant to the question that matters. Epaphroditus, the powerful freedman who owned Epictetus, was himself enslaved — to Caesar's favor, to his position, to what others thought of him. The legal slave who has secured his governing principle is freer than the master who hasn't.
+
+The practical advice on dealing with the powerful is characteristically precise: go to the great man's house if the game requires it, but go without needing anything from him. Attend to what is fitting, participate in the game cheerfully, but keep nothing at stake. If he receives you well, fine; if not, leave. The man who needs a particular outcome from the visit is already enslaved before he walks through the door. "I will play the game as long as it is reasonable, but I will not make myself ridiculous or base for its sake."
+
+The chapter closes by returning to the definition: freedom is not something conferred by a legal act or a social position. It is the condition of a person who has genuinely placed good and evil in the will alone, who has nothing outside themselves that can be taken as leverage, and who therefore moves through the world — among tyrants, emperors, crowds, and adversity — as the only person in the room who is not a slave.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

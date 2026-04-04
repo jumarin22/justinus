@@ -17,6 +17,19 @@ sidebar_label: "Book 4, Ch. 13"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+The social pressure to reciprocate confidences is a trap. Someone confides in you; you feel obligated to confide in return; your secrets are then at the mercy of a person you didn't actually assess for trustworthiness. The soldier-in-civilian-dress analogy captures it: he speaks ill of the emperor first, creating a false sense of shared security, and you follow him into the confession that gets you arrested.
+
+Real trustworthiness is not established by confiding but by the quality of a person's judgments. A person who has placed their good in externals — office, money, the approval of Caesar's court — has countless levers by which they can be moved to betray you. A pretty face, a nod from a powerful man, a lust for inheritance — any of these can break them. The only genuinely trustworthy person is one whose good lies in their own will, which nothing external can threaten.
+
+The wine-cask analogy closes it: you trust your wine to a sound vessel, not a leaking one. First show me that your vessel is sound — that your judgments are those of a friend to yourself and to others. Then I will come to you voluntarily, without waiting to be asked. Until then, the obligation of reciprocal disclosure dissolves.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

@@ -17,6 +17,15 @@ sidebar_label: "Book 4, Ch. 3"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Every time you give up something external, measure what you receive in return. A horse for an ass is a gain; a noble action for a coin is a gain; peace of mind for pedantry is a gain. The error is in not doing this accounting — in surrendering self-respect or constancy for something trivial without noticing the exchange. A helmsman needs far fewer resources to wreck a ship than to save it; a small inattention is enough. The same applies to the interior life: a slight aberration from reason can undo everything accumulated. Stay awake. What you have in keeping — self-respect, honor, freedom — is not a trifle. Know what you are selling it for before you sell it.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

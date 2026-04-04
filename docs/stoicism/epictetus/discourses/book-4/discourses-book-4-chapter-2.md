@@ -17,6 +17,15 @@ sidebar_label: "Book 4, Ch. 2"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Progress requires choosing a direction and holding it. When you start living differently — no longer drinking with the old crowd, no longer singing at parties, exercising self-control where you used to be indulgent — former companions will pull away. You cannot have both their approval and your improvement; the two are in direct conflict. Trying to face both ways produces neither. The chapter is blunt: either commit completely to the better path and accept losing some relationships, or go back entirely to the old way and get what it offers. You cannot play both Thersites and Agamemnon. Choose which character you are and be it fully.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text

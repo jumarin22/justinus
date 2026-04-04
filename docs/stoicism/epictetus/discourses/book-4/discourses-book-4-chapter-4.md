@@ -17,6 +17,19 @@ sidebar_label: "Book 4, Ch. 4"
 
 
 <details open>
+<summary>Sonnet 4.6 Summary</summary>
+
+## Sonnet 4.6 Summary
+
+Wanting peace and quiet is not, by itself, philosophical. If you are attached to leisure the way others are attached to office, you are equally enslaved — just to a different master. A raven or a fever or a flute-player can disrupt "peace" understood as external quiet; real peace of mind is continuous and unhindered by definition, which means it can only live in the will.
+
+The chapter addresses the person who resents being pulled away from reading and study into the demands of life. Books are preparation; life is the thing you were preparing for. To arrive at the contest and ask for your leaping-weights back is to have missed the point entirely. The athlete doesn't return to the training ground when the games begin.
+
+The resolution: whether God sends you solitude or a crowd, treat each as the fitting circumstance of this moment. Alone — call it peace; in company — call it a festival. The Stoic is not someone who requires particular conditions; he is someone who makes good use of whatever conditions arrive. The closing is direct: one path leads to freedom, and it requires surrendering attachment to every preferred circumstance, including Athens, including Rome, including books.
+
+</details>
+
+<details open>
 <summary>Text</summary>
 
 ## Text
