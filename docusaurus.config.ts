@@ -58,7 +58,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/Aurelius_edit.png',
     colorMode: {
       defaultMode: 'dark',
       respectPrefersColorScheme: false,
