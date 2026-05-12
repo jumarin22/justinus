@@ -1,3 +1,7 @@
+---
+unlisted: true
+---
+
 # CLAUDE.md — Epictetus Discourses
 
 This folder contains the full text of Epictetus' *Discourses* (Matheson translation, 1916), organized by book and chapter.
