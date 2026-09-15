@@ -1,0 +1,30 @@
+---
+sidebar_position: 1
+title: Epicurus
+---
+
+import PhilosopherPage from '@site/src/components/PhilosopherPage';
+
+export const toc = [
+  { value: 'Links', id: 'links', level: 2 },
+  { value: 'Works', id: 'works', level: 2 },
+];
+
+<PhilosopherPage
+  name="Epicurus"
+  dates="341–270 BC"
+  descriptor="Greek philosopher, founder of Epicureanism"
+  works={[
+    { title: "Letter to Herodotus", year: "c. 3rd century BC", description: "A summary of his physics — atomism, the void, and the mechanics of a world without divine intervention." },
+    { title: "Letter to Pythocles", year: "c. 3rd century BC", description: "Explains celestial and meteorological phenomena through natural causes, aimed at dispelling superstitious fear." },
+    { title: "Letter to Menoeceus", year: "c. 3rd century BC", description: "His core ethical statement — pleasure as the absence of pain and disturbance (ataraxia), and why death is nothing to us." },
+    { title: "Principal Doctrines (Kuriai Doxai)", year: "c. 3rd century BC", description: "Forty aphorisms condensing his ethics, including the classification of desires as natural/necessary, natural/unnecessary, and vain." },
+    { title: "Vatican Sayings", year: "c. 3rd century BC", description: "A further collection of aphorisms rediscovered in a Vatican manuscript, supplementing the Principal Doctrines." },
+  ]}
+  links={[
+    { label: "Wikipedia", url: "https://en.wikipedia.org/wiki/Epicurus" },
+    { label: "Internet Encyclopedia of Philosophy", url: "https://iep.utm.edu/epicur/" },
+  ]}
+>
+
+</PhilosopherPage>
