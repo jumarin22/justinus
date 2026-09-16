@@ -25,6 +25,7 @@ Founded ~307 BC in Athens by Epicurus, a rival school to Stoicism in the Helleni
 Founded ~5th century BC in northeastern India by Siddhartha Gautama (the Buddha). Spread across Asia, splitting into major branches — Theravāda (Southeast Asia), Mahāyāna (East Asia), Vajrayāna (Tibet). Key figures beyond the Buddha: Nagarjuna, Bodhidharma, the Dalai Lamas. Core ideas: the Four Noble Truths, the Eightfold Path, impermanence, no-self (*anatta*), karma, and enlightenment. Now a global religion with ~500 million adherents.
 
 - [Thich Nhat Hanh](/docs/buddhism/thich-nhat-hanh) — Vietnamese monk, 1926–2022
+- [Arthur Schopenhauer](/docs/buddhism/schopenhauer) — German philosopher, 1788–1860 (not Buddhist himself, but his ethics of denying desire drew directly on the Buddhist and Vedantic texts he studied)
 
 ## Daoism
 
@@ -37,8 +38,12 @@ Founded traditionally in 6th century BC China, attributed to Laozi (historicity 
 Emerged in 19th–20th century Europe. Precursor: Søren Kierkegaard (Denmark, 1840s). Fully developed in France and Germany in the 20th century. Key figures: Nietzsche, Heidegger, Sartre, Camus, Simone de Beauvoir. Core ideas: radical freedom, anxiety (*angst*) as the awareness of that freedom, bad faith, absurdity, authentic existence. Peaked mid-20th century; heavily influenced literature, psychology, and postmodern thought.
 
 - [Fyodor Dostoevsky](/docs/existentialism/dostoevsky) — Russian novelist, 1821–1881
-- [Arthur Schopenhauer](/docs/existentialism/schopenhauer) — German philosopher, 1788–1860 (a direct precursor to Nietzsche's existentialist themes of will and suffering, though not an existentialist himself)
-- [Alfred Adler](/docs/existentialism/adler) — Austrian psychiatrist, 1870–1937 (founder of Individual Psychology; grouped here for his influence on later existential/humanistic psychology rather than as an existentialist proper)
+
+## Psychology
+
+Not a philosophical school in the classical sense, but the site's psychology figures earn their own space rather than being stretched to fit an adjacent tradition. Starting with Individual Psychology, founded by Alfred Adler as a break from Freudian psychoanalysis: personality as a unified whole oriented toward overcoming inferiority, the compensatory striving for superiority, and social interest (*Gemeinschaftsgefühl*) as the measure of psychological health.
+
+- [Alfred Adler](/docs/psychology/adler) — Austrian psychiatrist, 1870–1937
 
 ## Potential works to look into
 

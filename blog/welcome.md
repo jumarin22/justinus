@@ -7,7 +7,7 @@ tags: []
 
 Journals are on my local. Here is a changelog:
 
-2026-09-15: Trimmed Existentialism to Dostoevsky, Schopenhauer, and Adler. Added Epicureanism (Epicurus) and Daoism (Laozi) sections.
+2026-09-15: Trimmed Existentialism to Dostoevsky. Added Epicureanism (Epicurus), Daoism (Laozi), and Psychology (Adler) sections; moved Schopenhauer to Buddhism as a comparative Western figure.
 
 2026-03-29: Added Epictetus' Discourses.
 
