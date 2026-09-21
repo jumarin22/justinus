@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jumarin22.github.io/justinus/journal</id>
+    <id>https://jumarin22.github.io/justinus/changelog</id>
     <title>Justinus Blog</title>
-    <updated>2026-09-21T23:36:55.000Z</updated>
+    <updated>2026-09-21T23:45:54.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jumarin22.github.io/justinus/journal"/>
+    <link rel="alternate" href="https://jumarin22.github.io/justinus/changelog"/>
     <subtitle>Justinus Blog</subtitle>
     <icon>https://jumarin22.github.io/justinus/img/Aurelius_edit.ico</icon>
     <entry>
         <title type="html"><![CDATA[Changelog]]></title>
-        <id>https://jumarin22.github.io/justinus/journal/changelog</id>
-        <link href="https://jumarin22.github.io/justinus/journal/changelog"/>
-        <updated>2026-09-21T23:36:55.000Z</updated>
+        <id>https://jumarin22.github.io/justinus/changelog/changelog</id>
+        <link href="https://jumarin22.github.io/justinus/changelog/changelog"/>
+        <updated>2026-09-21T23:45:54.000Z</updated>
         <summary type="html"><![CDATA[Changes to the site, newest first:]]></summary>
         <content type="html"><![CDATA[<p>Changes to the site, newest first:</p>
 <p>2026-09-21: Added Democritus (Epicureanism) and Carl Rogers (Psychology). Upgraded to Docusaurus 3.10, fixed the resulting MDX comment-syntax breakage, and resolved most known dependency vulnerabilities.</p>

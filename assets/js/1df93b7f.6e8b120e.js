@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([["9452"],{5146(e,t,s){s.r(t),s.d(t,{default:()=>i});var r=s(4848),n=s(6347),u=s(6497),c=s(3572);function i(){let e=(0,u.Ay)("/docs/intro");return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(c.A,{children:(0,r.jsx)("meta",{httpEquiv:"refresh",content:`0; url=${e}`})}),(0,r.jsx)(n.rd,{to:e})]})}}}]);

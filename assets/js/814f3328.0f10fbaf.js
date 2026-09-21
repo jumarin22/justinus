@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([["1833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Changelog","permalink":"/justinus/changelog/changelog","unlisted":false,"date":"2026-09-21T23:45:54.000Z"}]}')}}]);
