@@ -1,0 +1,66 @@
+---
+title: Concepts
+---
+
+# Concepts
+
+Cross-cutting philosophical concepts, independent of any one school or thinker. Definitions to come — this is just the running list for now.
+
+- Anger
+- Assent
+- Beauty
+- Birth Order
+- Clemency
+- Compassion (Karuna)
+- Control
+- Courage
+- Cynicism
+- Dependent Origination
+- Desire
+- Duty
+- Ego
+- Eightfold Path
+- Emptiness (Śūnyatā)
+- Encouragement
+- Epicureanism
+- Equanimity
+- Fear
+- Finalism
+- Force
+- Four Noble Truths
+- Freedom
+- Freedom of Speech
+- Friendship
+- Gemeinschaftsgefühl
+- Happiness
+- Impermanence (Anicca)
+- Indifferents
+- Inferiority
+- Justice
+- Karma
+- Law
+- Lifestyle
+- Logic
+- Logos
+- Lust
+- Madness
+- Middle Way
+- Mindfulness
+- Morality
+- Nature
+- Nirvana
+- No-Self (Anatta)
+- Overcompensation
+- Pain
+- Pleasure
+- Pragmatism
+- Pride
+- Resilience
+- Safeguarding
+- Samsara
+- Stoa
+- Stoicism
+- Suffering (Dukkha)
+- Superiority
+- Vice
+- Virtue
