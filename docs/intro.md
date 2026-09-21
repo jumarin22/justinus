@@ -57,6 +57,3 @@ Texts worth considering for future full treatment, similar in depth to the Stoic
 - **D.T. Suzuki, *Essays in Zen Buddhism: First Series* (1927)** — public domain in the US; plays a similar "accessible modern teacher" role to Thich Nhat Hanh.
 - **The Diamond Sūtra / Heart Sūtra** — short, foundational Mahāyāna and Zen texts, well suited as smaller standalone pieces.
 
-## Journal
-
-Alongside the notes, I keep a [Journal](/journal). It's private for now. Maybe I'll make public posts someday...

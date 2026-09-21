@@ -74,7 +74,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'philosophersSidebar',
           position: 'left',
-          label: 'Philosophers',
+          label: 'Philosophy',
         },
         {
           to: '/journal',
