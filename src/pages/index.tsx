@@ -1,53 +1,16 @@
 import type {ReactNode} from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import {Redirect} from 'react-router-dom';
 import useBaseUrl from '@docusaurus/useBaseUrl';
-import Layout from '@theme/Layout';
-import Heading from '@theme/Heading';
-
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  const imgSrc = useBaseUrl('/img/Aurelius_edit.png');
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <img
-          src={imgSrc}
-          alt="Marcus Aurelius"
-          style={{width: '160px', borderRadius: '50%', marginBottom: '1rem'}}
-        />
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--outline button--secondary button--lg"
-            to="/docs/intro">
-            Philosophers
-          </Link>
-          <Link
-            className="button button--outline button--secondary button--lg"
-            style={{marginLeft: '1rem'}}
-            to="/journal">
-            Journal
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
+import Head from '@docusaurus/Head';
 
 export default function Home(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
+  const introUrl = useBaseUrl('/docs/intro');
   return (
-    <Layout
-      title={siteConfig.title}
-      description="Notes on philosophy">
-      <HomepageHeader />
-    </Layout>
+    <>
+      <Head>
+        <meta httpEquiv="refresh" content={`0; url=${introUrl}`} />
+      </Head>
+      <Redirect to={introUrl} />
+    </>
   );
 }
