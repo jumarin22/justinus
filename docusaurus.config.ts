@@ -40,7 +40,7 @@ const config: Config = {
         },
         blog: {
           path: 'blog',
-          routeBasePath: 'journal',
+          routeBasePath: 'changelog',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -77,7 +77,7 @@ const config: Config = {
           label: 'Philosophy',
         },
         {
-          to: '/journal',
+          to: '/changelog',
           position: 'left',
           label: 'Changelog',
         },

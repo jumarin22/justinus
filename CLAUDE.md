@@ -59,7 +59,7 @@ The label `Sonnet 4.6 Summary` reflects the model that generated it. Use the act
 Primary texts use public domain translations (e.g., Matheson 1916 for Epictetus). Always credit translator and edition at the top of the work index.
 
 ### Blog (`/blog`)
-Published at `/journal` route. Author metadata in `authors.yml`, tags in `tags.yml`. Dated entries (`blog/20*.md`) are gitignored (personal content not committed).
+Published at `/changelog` route (navbar label "Changelog"). Author metadata in `authors.yml`, tags in `tags.yml`. Dated entries (`blog/20*.md`) are gitignored (personal journal entries, not committed).
 
 ### Custom Components (`/src`)
 - `HomepageFeatures/` — Feature cards on the homepage
