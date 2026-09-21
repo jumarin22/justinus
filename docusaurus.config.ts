@@ -48,7 +48,7 @@ const config: Config = {
           },
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onUntruncatedBlogPosts: 'ignore',
         },
         theme: {
           customCss: './src/css/custom.css',

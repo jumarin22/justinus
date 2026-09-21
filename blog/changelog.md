@@ -5,7 +5,7 @@ authors: [me]
 tags: []
 ---
 
-Journals are on my local. Changes to the site, newest first:
+Changes to the site, newest first:
 
 2026-09-21: Added Democritus (Epicureanism) and Carl Rogers (Psychology). Upgraded to Docusaurus 3.10, fixed the resulting MDX comment-syntax breakage, and resolved most known dependency vulnerabilities.
 
@@ -16,5 +16,3 @@ Journals are on my local. Changes to the site, newest first:
 2026-03-24: Added Enchiridion.
 
 2026-03-22: Initial commits & publication to github pages. Only Marcus Aurelius' Meditations are fleshed out.
-
-{/* truncate */}
