@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[3416],{2725(e){e.exports=JSON.parse('{"authors":[{"name":"Justinus","url":"https://jumarin22.github.io/my-website","key":"me","page":null,"count":1}]}')}}]);
