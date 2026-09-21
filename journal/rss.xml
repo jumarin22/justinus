@@ -4,7 +4,7 @@
         <title>Justinus Blog</title>
         <link>https://jumarin22.github.io/justinus/journal</link>
         <description>Justinus Blog</description>
-        <lastBuildDate>Mon, 21 Sep 2026 22:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 23:32:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Changelog]]></title>
             <link>https://jumarin22.github.io/justinus/journal/changelog</link>
             <guid>https://jumarin22.github.io/justinus/journal/changelog</guid>
-            <pubDate>Mon, 21 Sep 2026 22:29:02 GMT</pubDate>
+            <pubDate>Mon, 21 Sep 2026 23:32:24 GMT</pubDate>
             <description><![CDATA[Changes to the site, newest first:]]></description>
             <content:encoded><![CDATA[<p>Changes to the site, newest first:</p>
 <p>2026-09-21: Added Democritus (Epicureanism) and Carl Rogers (Psychology). Upgraded to Docusaurus 3.10, fixed the resulting MDX comment-syntax breakage, and resolved most known dependency vulnerabilities.</p>
