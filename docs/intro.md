@@ -18,6 +18,7 @@ Founded ~300 BC in Athens by Zeno of Citium. Flourished through the Roman Empire
 
 Founded ~307 BC in Athens by Epicurus, a rival school to Stoicism in the Hellenistic period. Core ideas: pleasure (understood as *ataraxia*, freedom from disturbance, not indulgence) as the highest good, atomism, a natural world without divine intervention, and the famous argument that death is nothing to fear since it is not experienced. Declined alongside the other Hellenistic schools but its ethical hedonism resurfaces throughout later philosophy (Bentham, Mill).
 
+- [Democritus](/docs/epicureanism/democritus) — Greek philosopher, c. 460–370 BC (not an Epicurean himself — he predates the school by over a century — but his atomism and his ethics of *euthymia* (cheerful tranquility) directly shaped Epicurus's physics and concept of ataraxia)
 - [Epicurus](/docs/epicureanism/epicurus) — Greek philosopher, 341–270 BC
 
 ## Buddhism
@@ -44,6 +45,7 @@ Emerged in 19th–20th century Europe. Precursor: Søren Kierkegaard (Denmark, 1
 Not a philosophical school in the classical sense, but the site's psychology figures earn their own space rather than being stretched to fit an adjacent tradition. Starting with Individual Psychology, founded by Alfred Adler as a break from Freudian psychoanalysis: personality as a unified whole oriented toward overcoming inferiority, the compensatory striving for superiority, and social interest (*Gemeinschaftsgefühl*) as the measure of psychological health.
 
 - [Alfred Adler](/docs/psychology/adler) — Austrian psychiatrist, 1870–1937
+- [Carl Rogers](/docs/psychology/rogers) — American psychologist, 1902–1987 (founder of person-centered therapy and humanistic psychology, a contemporary of Adler's Individual Psychology in prioritizing the whole person and self-directed growth over pathology)
 
 ## Potential works to look into
 
