@@ -15,4 +15,4 @@ Journals are on my local. Here is a changelog:
 
 2026-03-22: Initial commits & publication to github pages. Only Marcus Aurelius' Meditations are fleshed out.
 
-<!--truncate-->
+{/* truncate */}
