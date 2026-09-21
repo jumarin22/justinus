@@ -2,18 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jumarin22.github.io/justinus/journal</id>
     <title>Justinus Blog</title>
-    <updated>2026-09-21T21:57:49.000Z</updated>
+    <updated>2026-09-21T22:24:10.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jumarin22.github.io/justinus/journal"/>
     <subtitle>Justinus Blog</subtitle>
     <icon>https://jumarin22.github.io/justinus/img/Aurelius_edit.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://jumarin22.github.io/justinus/journal/welcome</id>
-        <link href="https://jumarin22.github.io/justinus/journal/welcome"/>
-        <updated>2026-09-21T21:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Journals are on my local. Here is a changelog:]]></summary>
-        <content type="html"><![CDATA[<p>Journals are on my local. Here is a changelog:</p>
+        <title type="html"><![CDATA[Changelog]]></title>
+        <id>https://jumarin22.github.io/justinus/journal/changelog</id>
+        <link href="https://jumarin22.github.io/justinus/journal/changelog"/>
+        <updated>2026-09-21T22:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Journals are on my local. Changes to the site, newest first:]]></summary>
+        <content type="html"><![CDATA[<p>Journals are on my local. Changes to the site, newest first:</p>
+<p>2026-09-21: Added Democritus (Epicureanism) and Carl Rogers (Psychology). Upgraded to Docusaurus 3.10, fixed the resulting MDX comment-syntax breakage, and resolved most known dependency vulnerabilities.</p>
 <p>2026-09-15: Trimmed Existentialism to Dostoevsky. Added Epicureanism (Epicurus), Daoism (Laozi), and Psychology (Adler) sections; moved Schopenhauer to Buddhism as a comparative Western figure.</p>
 <p>2026-03-29: Added Epictetus' Discourses.</p>
 <p>2026-03-24: Added Enchiridion.</p>
