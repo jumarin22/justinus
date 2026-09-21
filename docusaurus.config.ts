@@ -79,7 +79,7 @@ const config: Config = {
         {
           to: '/journal',
           position: 'left',
-          label: 'Journal',
+          label: 'Changelog',
         },
       ],
     },
